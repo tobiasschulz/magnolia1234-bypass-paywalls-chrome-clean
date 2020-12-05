@@ -288,6 +288,7 @@ Alma Talent sites (grouped in options) like
 
 ##### Russia
 [Republic.ru](https://republic.ru)
+[Znanija.com](https://znanija.com)
 
 ##### Spain
 [ABC](https://www.abc.es)  and regional sites from Grupo Vocento (grouped in options) like
