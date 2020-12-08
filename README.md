@@ -258,13 +258,15 @@ Groupe Rossel sites (grouped in options) like
 [Die Zeit](https://www.zeit.de) -
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Handelsblatt](https://www.handelsblatt.com) -
-[Hannoversche Allgemeine Zeitung](https://www.haz.de) -
-[Kieller Nachrichten](https://www.kn-online.de)  -
 [Kurier.at](https://kurier.at) -
+Madsack Mediengruppe sites (grouped in options) like
 [Leipziger Volkszeitung](https://www.lvz.de) -
+[Hannoversche Allgemeine Zeitung](https://www.haz.de) -
+[Kieler Nachrichten](https://www.kn-online.de) -
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse](https://www.neuepresse.de) -
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
 [Neue Ruhr Zeitung](https://www.nrz.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
