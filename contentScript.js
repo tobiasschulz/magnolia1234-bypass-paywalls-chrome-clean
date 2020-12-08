@@ -1416,7 +1416,7 @@ else if (matchDomain("stocknews.com")) {
         blurmes[i].setAttribute('id', 'blurmenot' + i);
 }
 
-else if (matchDomain(["haz.de", "lvz.de"])) {
+else if (matchDomain(["haz.de", "lvz.de", "neuepresse.de", "maz-online.de", "kn-online.de"])) {
     let paidcontent_intro = document.querySelector('div.pdb-article-body-paidcontentintro');
     if (paidcontent_intro) {
         paidcontent_intro.classList.remove('pdb-article-body-paidcontentintro');
@@ -1927,7 +1927,7 @@ function pageContains(selector, text) {
 
 function parseHtmlEntities(encodedString) {
     var translate_re = /&(nbsp|amp|quot|lt|gt|deg|hellip|laquo|raquo|ldquo|rdquo|lsquo|rsquo|mdash);/g;
-    var translate = {"nbsp": " ", "amp": "&", "quot": "\"", "lt": "<", "gt": ">", "deg": "°", "hellip": "…", 
+    var translate = {"nbsp": " ", "amp": "&", "quot": "\"", "lt": "<", "gt": ">", "deg": "°", "hellip": "…",
         "laquo": "«", "raquo": "»", "ldquo": "“", "rdquo": "”", "lsquo": "‘", "rsquo": "’", "mdash": "—"};
     return encodedString.replace(translate_re, function (match, entity) {
         return translate[entity];
