@@ -260,18 +260,13 @@ Groupe Rossel sites (grouped in options) like
 [Handelsblatt](https://www.handelsblatt.com) -
 [Kurier.at](https://kurier.at) -
 Madsack Mediengruppe sites (grouped in options) like
-[Dresdner Neueste Nachrichten](https://www.dnn.de) -
-[Göttinger Tageblatt](https://www.goettinger-tageblatt.de) -
-[Leipziger Volkszeitung](https://www.lvz.de) -
 [Hannoversche Allgemeine Zeitung](https://www.haz.de) -
 [Kieler Nachrichten](https://www.kn-online.de) -
+[Leipziger Volkszeitung](https://www.lvz.de) -
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse](https://www.neuepresse.de) -
-[Ostsee-Zeitung](https://www.ostsee-zeitung.de) -
-[Peiner Allgemeine Zeitung](https://www.paz-online.de) -
-[Schaumburger Nachrichten](https://www.sn-online.de) -
-[Wolfsburger Allgemeine](https://www.waz-online.de)
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
 [Neue Ruhr Zeitung](https://www.nrz.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
