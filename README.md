@@ -23,10 +23,10 @@ In extension developer mode you can always install BPC by `Load unpacked` (no au
 4. Go to the extensions page (`chrome://extensions` or `edge://extensions`).
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select the extension folder.
-  
+
 * by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).   
 * in Chrome/Opera/Brave disable the developer mode extensions popup by enabling the extensions toolbar menu under (experimental) chrome flags: chrome://flags/#extensions-toolbar-menu  
-  
+
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
 #### CRX-file: other Chromium browsers (Opera/Vivaldi)
@@ -37,14 +37,14 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it.
 5. If dragging crx-file does not work, try Chrome procedure (above).
-  
+
 * by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).   
 * In Windows 'whitelist' BPC (run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
 If you already have 'whitelisted' extensions than you should change "1" to a new key (also change name of HLM-key for beta/developer versions of browsers).  
 Example Chrome-regfile:  
 Windows Registry Editor Version 5.00  
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallWhitelist]  
-"1"="lkbebcjgcmobigpeffafkodonchffocl" 
+"1"="lkbebcjgcmobigpeffafkodonchffocl"
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
@@ -259,8 +259,11 @@ Groupe Rossel sites (grouped in options) like
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Handelsblatt](https://www.handelsblatt.com) -
 [Hannoversche Allgemeine Zeitung](https://www.haz.de) -
+[Kieller Nachrichten](https://www.kn-online.de)  -
 [Kurier.at](https://kurier.at) -
 [Leipziger Volkszeitung](https://www.lvz.de) -
+[Märkische Allgemeine](https://www.maz-online.de) -
+[Neue Presse](https://www.neuepresse.de) -
 [Neue Ruhr Zeitung](https://www.nrz.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
@@ -476,7 +479,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
 * by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).  
-Make sure the (new) site is checked under Options (or check on/off-button). 
+Make sure the (new) site is checked under Options (or check on/off-button).
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
 Also you can enable Googlebot user-agent or disable Javascript for (sub)domain(s)/external sources.
 
