@@ -262,6 +262,7 @@ Groupe Rossel sites (grouped in options) like
 [Kieller Nachrichten](https://www.kn-online.de)  -
 [Kurier.at](https://kurier.at) -
 [Leipziger Volkszeitung](https://www.lvz.de) -
+[Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse](https://www.neuepresse.de) -
 [Neue Ruhr Zeitung](https://www.nrz.de) -

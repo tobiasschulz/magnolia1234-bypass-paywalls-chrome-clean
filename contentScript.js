@@ -1416,7 +1416,7 @@ else if (matchDomain("stocknews.com")) {
         blurmes[i].setAttribute('id', 'blurmenot' + i);
 }
 
-else if (matchDomain(["haz.de", "lvz.de", "neuepresse.de", "maz-online.de", "kn-online.de"])) {
+else if (matchDomain(["haz.de", "kn-online.de", "ln-online.de", "lvz.de", "maz-online.de", "neuepresse.de"])) {
     let paidcontent_intro = document.querySelector('div.pdb-article-body-paidcontentintro');
     if (paidcontent_intro) {
         paidcontent_intro.classList.remove('pdb-article-body-paidcontentintro');

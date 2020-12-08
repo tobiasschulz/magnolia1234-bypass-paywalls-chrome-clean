@@ -119,6 +119,7 @@ var defaultSites =
   "London Review of Books": "lrb.co.uk",
   "Los Angeles Business Journal": "labusinessjournal.com",
   "Los Angeles Times": "latimes.com",
+  "Lübecker Nachrichten": "ln-online.de",
   "MarketWatch (free articles only)": "marketwatch.com",
   "Märkische Allgemeine": "maz-online.de",
   "Medium (all sites)": "medium.com",
