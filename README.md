@@ -57,9 +57,9 @@ Windows Registry Editor Version 5.00
 
     1. Open a Terminal window
     2. Navigate to Chrome's Application Folder: `cd Library/Application\ Support/Google/Chrome/`
-    >(The last two subpaths depend on your browser, e.g. /BraveSoftware/Brave-Browser for Brave)
+    >(The last two subpaths depend on your browser, e.g. /BraveSoftware/Brave-Browser/ for Brave)
 
-    >(Linux: /opt/google/chrome/ for Chrome, /opt/brave.com/brave/ for Brave, etc)
+    >(Linux: path should be /opt/google/chrome/ for Chrome, /opt/brave.com/brave/ for Brave, etc)
     3. Create a new folder: `mkdir External\ Extensions`
     >(Linux: `mkdir extensions`)
     4. `cd External\ Extensions`
