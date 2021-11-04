@@ -38,7 +38,7 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
 #### CRX-file: other Chromium browsers (Opera/Vivaldi)
-* or add extension to 'whitelist' for Chrome, MS Edge, Brave or Yandex (see instructions below for Windows)
+* or add extension to 'whitelist' for Chrome, MS Edge, Brave or Yandex (see instructions below for Windows/Mac OS/Linux)
 
 1. Download the extension as a crx-file from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
 2. In your browser go to the extensions page.
@@ -47,12 +47,32 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 5. If dragging crx-file does not work, try 'load unpacked' installation (above).
 
 * By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
-* In Windows 'whitelist' BPC: run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
+* For Windows 'whitelist': run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
 If you already have 'whitelisted' extensions than you should change "1" to a new key (also change name of HLM-key for beta/developer versions of browsers).  
 Example Chrome-regfile:  
 Windows Registry Editor Version 5.00  
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallWhitelist]  
 "1"="lkbebcjgcmobigpeffafkodonchffocl"
+* For Mac OS/Linux 'whitelist', you need to create a preferences file as detailed in [here](https://developer.chrome.com/docs/extensions/mv3/external_extensions/#preferences)
+
+    1. Open a Terminal Window
+    2. Navigate to Chrome's Application Folder: `cd Library/Application\ Support/Google/Chrome/`
+    >(The last two subpaths depend on your browser, e.g. /BraveSoftware/Brave-Browser for Brave)
+
+    >(Linux: path should be /opt/google/chrome/)
+    3. Create a new folder: `mkdir External\ Extensions`
+    >(Linux: `mkdir extensions`)
+    4. `cd External\ Extensions`
+    5. Create a JSON file with the extension's ID: `nano lkbebcjgcmobigpeffafkodonchffocl.json`
+    6. Paste the following content and save:
+    ```
+    {
+    "external_update_url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/updates.xml"
+    }
+    ```
+    7. If you already installed the extension, uninstall it (IMPORTANT)
+    8. Close the browser's process, not the windows only (IMPORTANT)
+    9. Restart the browser and reinstall the extension by dragging the .crx file to the extensions config page
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
