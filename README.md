@@ -55,11 +55,11 @@ Windows Registry Editor Version 5.00
 "1"="lkbebcjgcmobigpeffafkodonchffocl"
 * For Mac OS/Linux 'whitelist', you need to create a preferences file as detailed in [here](https://developer.chrome.com/docs/extensions/mv3/external_extensions/#preferences)
 
-    1. Open a Terminal Window
+    1. Open a Terminal window
     2. Navigate to Chrome's Application Folder: `cd Library/Application\ Support/Google/Chrome/`
     >(The last two subpaths depend on your browser, e.g. /BraveSoftware/Brave-Browser for Brave)
 
-    >(Linux: path should be /opt/google/chrome/)
+    >(Linux: /opt/google/chrome/ for Chrome, /opt/brave.com/brave/ for Brave, etc)
     3. Create a new folder: `mkdir External\ Extensions`
     >(Linux: `mkdir extensions`)
     4. `cd External\ Extensions`
@@ -70,9 +70,13 @@ Windows Registry Editor Version 5.00
     "external_update_url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/updates.xml"
     }
     ```
-    7. If you already installed the extension, uninstall it (IMPORTANT)
-    8. Close the browser's process, not the windows only (IMPORTANT)
-    9. Restart the browser and reinstall the extension by dragging the .crx file to the extensions config page
+    7. (Mac OS ONLY) We also need to update the browser's policy. In the same Terminal window, run:
+
+    `defaults write com.google.Chrome ExtensionInstallAllowlist -array lkbebcjgcmobigpeffafkodonchffocl`
+
+    8. If you already installed the extension, uninstall it (IMPORTANT)
+    9. Close the browser's process, not the windows only (IMPORTANT)
+    10. Restart the browser and reinstall the extension by dragging the .crx file to the extensions config page
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
