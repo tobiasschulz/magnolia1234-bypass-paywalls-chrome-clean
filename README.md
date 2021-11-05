@@ -19,9 +19,10 @@ Weekly updates are released for fixes and new sites.
 ### Installation
 Due to [Google internal policy](https://developer.chrome.com/webstore/program_policies), the extension is not available on the Chrome Web Store.  
 The following instructions are needed to install third-party extensions in [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))-based desktop browsers.  
-In extension developer mode you can always install BPC by `Load unpacked` (latest master, but no automatic updates) or by crx-file (latest release & automatic updates, but possible 'whitelisting' of extension is needed).
+In extension developer mode you can always install BPC by `Load unpacked` (latest master, but no automatic updates) or by crx-file (latest release & automatic updates, but possibly you have to add the extension to the allowlist).
 
-#### Load unpacked: Chrome/Microsoft Edge/Brave/Yandex (desktop)
+#### Load unpacked: Chrome (desktop), Microsoft Edge (Chromium)/Brave/Yandex
+* or add extension to allowlist and install automatically updating crx-file (see next section)
 
 1. Download this repository as a [ZIP-file from GitLab](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip).
 2. Unzip the file and you should have a folder named `bypass-paywalls-chrome-clean-master`.
@@ -31,13 +32,13 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 6. Click `Load unpacked` and select the extension folder.
 
 * By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
-* For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no 'whitelisting' needed).
+* For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no allowlist is needed).
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
-#### CRX-file: All listed above + other Chromium browsers (Opera/Vivaldi)
-*  Add extension to 'whitelist' for Chrome, MS Edge, Brave or Yandex (see instructions below)
+#### CRX-file: other Chromium browsers (Opera/Vivaldi)
+* or add extension to allowlist for Chrome, MS Edge, Brave or Yandex (see [instructions](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist/README.md))
 
 1. Download the extension as a crx-file from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
 2. In your browser go to the extensions page.
@@ -45,23 +46,11 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
 
 * By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
-* For Windows 'whitelist': run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
-If you already have 'whitelisted' extensions than you should change "1" to a new key (also change name of HLM-key for beta/developer versions of browsers).  
-Example Chrome-regfile:  
-Windows Registry Editor Version 5.00  
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallWhitelist]  
-"1"="lkbebcjgcmobigpeffafkodonchffocl"
-* For Mac OS 'whitelist', you need to install one of the .mobileconfig files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist).  
-Double-click on the file to install the profile, finally restart the browser's process (in the Dock: right click on Chrome, 'Quit', reopen).  
-This assumes that you have admin rights, your device is not being managed by MDM software and you don't have any profile related to the 'ExtensionInstallAllowlist' policy already active.
-* For Linux 'whitelist', [Chromium-based browsers allow local installations of extensions](https://developer.chrome.com/docs/extensions/mv3/hosting/#hosting), so not necessary :)
-
-5. If after all, dragging crx-file does not work for you, try 'load unpacked' installation (above).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
 2. For Kiwi Browser you have two options:
-* load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version))
+* load the CRX-file in releases (auto-updating, no allowlist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version))
 * install latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder).
 3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try a few times or use Total Commander (as file manager). You can use a Git client like MGit to clone (and update) this repository on your mobile device.\
 For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
@@ -392,6 +381,7 @@ Grouped in options:\
 [Handelsblatt](https://www.handelsblatt.com)* -
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
+[Mitteldeutsche Zeitung](https://www.mz.de) -
 [Neue Osnabrücker Zeitung](https://www.noz.de]) -
 [Nordwest Zeitung](https://www.nwzonline.de) -
 [Piqd.de](https://www.piqd.de) -
