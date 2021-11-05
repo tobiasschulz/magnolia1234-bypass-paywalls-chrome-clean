@@ -42,17 +42,17 @@
     </dict>
   </array>
   <key>PayloadDescription</key>
-  <string>Bypass Paywalls Clean - MS Edge</string>
+  <string>Bypass Paywalls Chrome Clean - MS Edge</string>
   <key>PayloadDisplayName</key>
   <string>MS Edge ExtensionInstallAllowlist for Bypass Paywalls Clean</string>
   <key>PayloadIdentifier</key>
   <string>com.example.Edge.example.bpc</string>
   <key>PayloadOrganization</key>
-  <string>seffs</string>
+  <string>Bypass Paywalls Chrome Clean</string>
   <key>PayloadRemovalDisallowed</key>
-  <true/>
+  <false/>
   <key>PayloadScope</key>
-  <string>System</string>
+  <string>User</string>
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>

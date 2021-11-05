@@ -42,17 +42,17 @@
     </dict>
   </array>
   <key>PayloadDescription</key>
-  <string>Bypass Paywalls Clean - Brave</string>
+  <string>Bypass Paywalls Chrome Clean - Brave</string>
   <key>PayloadDisplayName</key>
   <string>Brave ExtensionInstallAllowlist for Bypass Paywalls Clean</string>
   <key>PayloadIdentifier</key>
   <string>com.example.Brave.example.bpc</string>
   <key>PayloadOrganization</key>
-  <string>seffs</string>
+  <string>Bypass Paywalls Chrome Clean</string>
   <key>PayloadRemovalDisallowed</key>
-  <true/>
+  <false/>
   <key>PayloadScope</key>
-  <string>System</string>
+  <string>User</string>
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>
