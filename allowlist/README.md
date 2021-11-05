@@ -17,7 +17,7 @@ Windows Registry Editor Version 5.00
 
 ### macOS
 
-Run one of the .mobileconfig files in [allowlist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist) (requires admin rights)  
+Run one of the .mobileconfig files in [allowlist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist) (requires admin rights)  
 Finally restart the browser's process (in the Dock: right click on Chrome, 'Quit', reopen).   
 This assumes your device is not being managed by MDM software and you don't have any profile related to the 'ExtensionInstallAllowlist' policy already active.
 
