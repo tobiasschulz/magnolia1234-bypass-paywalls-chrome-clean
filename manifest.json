@@ -562,7 +562,6 @@
         "*://*.qiota.com/*",
         "*://*.tinypass.com/*",
         "*://*.tribdss.com/*",
-        "*://*.adobedtm.com/*",
         "*://*.amazonaws.com/*",
         "*://*.apnarm.net.au/*",
         "*://*.bntech.io/*",
@@ -590,5 +589,5 @@
         "*://*.wsj.net/*",
         "*://*.zephr.com/*"
     ],
-    "version": "2.5.2.2"
+    "version": "2.5.2.3"
 }
