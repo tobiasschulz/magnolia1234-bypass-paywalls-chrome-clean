@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Fix block inline script (Firefox-synch)
+Fix Australia News Corp (amp-redirect)
 
 * v2.5.3.0 (2022-01-23)
 Add Huffingtonpost.it
