@@ -574,6 +574,7 @@
         "*://*.qiota.com/*",
         "*://*.tinypass.com/*",
         "*://*.tribdss.com/*",
+        "*://*.zephr.com/*",
         "*://*.amazonaws.com/*",
         "*://*.apnarm.net.au/*",
         "*://*.bntech.io/*",
@@ -598,8 +599,7 @@
         "*://*.rndtech.de/*",
         "*://*.sanoma-sndp.fi/*",
         "*://*.wallkit.net/*",
-        "*://*.wsj.net/*",
-        "*://*.zephr.com/*"
+        "*://*.wsj.net/*"
     ],
-    "version": "2.5.4.0"
+    "version": "2.5.4.1"
 }
