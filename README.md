@@ -64,6 +64,7 @@ Visit the [Firefox repository](https://gitlab.com/magnolia1234/bypass-paywalls-f
 * Do not delete extension's folder from your computer/smartphone or Bypass Paywalls Clean (in developer mode) will disappear at restart.
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 * You will be logged out for most of the sites you have checked.
+* Some sites need to redirect to an amp-page (add an exception in your amp2html extension).
 
 ### Update
 For crx-installation: check for updates (in chrome://extensions).\
