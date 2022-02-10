@@ -91,7 +91,6 @@ _* free articles only._
 [The New Republic](https://newrepublic.com) -
 [The New York Review of Books](https://www.nybooks.com) -
 [The New York Times](https://www.nytimes.com) -
-[The New Yorker](https://www.newyorker.com) -
 [The Spectator World](https://spectatorworld.com) -
 [The Washington Post](https://www.washingtonpost.com) -
 [Time Magazine](https://time.com) -
@@ -119,7 +118,8 @@ _* free articles only._
 [Stock News](https://stocknews.com) -
 [The Business Journals](https://www.bizjournals.com) -
 [The Business of Fashion](https://www.businessoffashion.com) -
-[The Wall Street Journal](https://www.wsj.com)
+[The Wall Street Journal](https://www.wsj.com) -
+[Vogue Business](https://www.voguebusiness.com)
 
 Grouped in options:\
 *Crain Communications* sites like\
@@ -151,8 +151,7 @@ Grouped in options:\
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
-[VentureBeat](https://venturebeat.com) -
-[Wired](https://www.wired.com)
+[VentureBeat](https://venturebeat.com)
 
 ##### Encyclopedia/Book library/Knowledge base
 [BBC History Extra](https://www.historyextra.com) -
@@ -186,10 +185,16 @@ Grouped in options:\
 [The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
 [The Wrap](https://www.thewrap.com) -
-[Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com)
 
 Grouped in options:\
+*Condé Nast magazines* sites like:\
+[Bon Appétit](https://www.bonappetit.com) -
+[GC](https://www.gq.com) -
+[The New Yorker](https://www.newyorker.com) -
+[Vanity Fair](https://www.vanityfair.com) -
+[Vogue USA](https://www.vogue.com) -
+[Wired](https://www.wired.com)\
 *Outside magazines* sites like:\
 [Backpacker](https://www.backpacker.com) -
 [Beta](https://www.betamtb.com) -
