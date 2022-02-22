@@ -591,6 +591,7 @@
         "*://*.epimg.net/*",
         "*://*.flip-pay.com/*",
         "*://*.gannett-cdn.com/*",
+        "*://*.gitlab.com/magnolia1234/*",
         "*://*.hearstnp.com/*",
         "*://*.jsdelivr.net/*",
         "*://*.lightboxcdn.com/*",
@@ -607,5 +608,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.5.7.0"
+    "version": "2.5.7.1"
 }
