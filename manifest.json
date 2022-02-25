@@ -94,6 +94,7 @@
         "*://*.businessinsider.com/*",
         "*://*.businessoffashion.com/*",
         "*://*.cairnspost.com.au/*",
+        "*://*.calgaryherald.com/*",
         "*://*.canberratimes.com.au/*",
         "*://*.capitalgazette.com/*",
         "*://*.cen.acs.org/*",
@@ -506,6 +507,7 @@
         "*://*.thenewatlantis.com/*",
         "*://*.thepeterboroughexaminer.com/*",
         "*://*.thepointmag.com/*",
+        "*://*.theprovince.com/*",
         "*://*.therecord.com/*",
         "*://*.thesaturdaypaper.com.au/*",
         "*://*.thespec.com/*",
@@ -521,6 +523,7 @@
         "*://*.timesofindia.indiatimes.com/*",
         "*://*.tivi.fi/*",
         "*://*.tlz.de/*",
+        "*://*.torontosun.com/*",
         "*://*.towardsdatascience.com/*",
         "*://*.townnews.com/*",
         "*://*.townsvillebulletin.com.au/*",
@@ -538,6 +541,7 @@
         "*://*.usinenouvelle.com/*",
         "*://*.uusisuomi.fi/*",
         "*://*.valeursactuelles.com/*",
+        "*://*.vancouversun.com/*",
         "*://*.vanityfair.com/*",
         "*://*.variety.com/*",
         "*://*.varmatin.com/*",
@@ -601,6 +605,7 @@
         "*://*.natgeofe.com/*",
         "*://*.nyt.com/*",
         "*://*.pasedigital.cl/*",
+        "*://*.postmedia.digital/*",
         "*://*.prcdn.co/*",
         "*://*.repstatic.it/*",
         "*://*.rndtech.de/*",
@@ -608,5 +613,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.5.7.3"
+    "version": "2.5.7.4"
 }
