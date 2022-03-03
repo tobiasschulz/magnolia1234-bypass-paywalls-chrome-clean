@@ -31,7 +31,7 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select the extension folder.
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 * For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no allowlist is needed).
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
@@ -45,13 +45,13 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
 2. For Kiwi Browser you have two options:
 * load the CRX-file in releases (auto-updating, no allowlist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)
-* install latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder).
+* install latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder, clearing Kiwi-cache will also remove extension though).
 3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try a few times or use Total Commander (as file manager). You can use a Git client like MGit to clone (and update) this repository on your mobile device.\
 For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
 
@@ -371,6 +371,7 @@ Grouped in options:\
 [Atlantico](https://atlantico.fr) -
 [Challenges](https://www.challenges.fr) -
 [Charlie Hebdo](https://charliehebdo.fr) -
+[Causeur](https://www.causeur.fr) -
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [L'Équipe](https://www.lequipe.fr) -
