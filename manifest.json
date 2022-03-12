@@ -561,6 +561,7 @@
         "*://*.vogue.com/*",
         "*://*.voguebusiness.com/*",
         "*://*.volkskrant.nl/*",
+        "*://*.volksstimme.de/*",
         "*://*.vosgesmatin.fr/*",
         "*://*.vulture.com/*",
         "*://*.washingtonpost.com/*",
@@ -622,5 +623,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.5.9.4"
+    "version": "2.5.9.5"
 }
