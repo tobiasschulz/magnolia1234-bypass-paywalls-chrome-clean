@@ -86,6 +86,7 @@
         "*://*.bloombergquint.com/*",
         "*://*.bnd.com/*",
         "*://*.bndestem.nl/*",
+        "*://*.bnn.de/*",
         "*://*.bonappetit.com/*",
         "*://*.bordermail.com.au/*",
         "*://*.bostonglobe.com/*",
@@ -378,6 +379,7 @@
         "*://*.modernhealthcare.com/*",
         "*://*.monacomatin.mc/*",
         "*://*.morgenpost.de/*",
+        "*://*.muensterschezeitung.de/*",
         "*://*.mv-voice.com/*",
         "*://*.mz.de/*",
         "*://*.nation.africa/*",
@@ -598,6 +600,7 @@
         "*://*.wp.de/*",
         "*://*.wr.de/*",
         "*://*.wsj.com/*",
+        "*://*.wz.de/*",
         "*://*.yogajournal.com/*",
         "*://*.zeit.de/*",
         "*://*.ampproject.org/*",
@@ -645,5 +648,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.6.1.1"
+    "version": "2.6.1.2"
 }
