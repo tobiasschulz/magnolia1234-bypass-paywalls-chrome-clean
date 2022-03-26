@@ -329,6 +329,7 @@
         "*://*.leidschdagblad.nl/*",
         "*://*.lejdd.fr/*",
         "*://*.lejsl.com/*",
+        "*://*.lenouveleconomiste.fr/*",
         "*://*.leparisien.fr/*",
         "*://*.leprogres.fr/*",
         "*://*.lequipe.fr/*",
@@ -648,5 +649,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.6.1.2"
+    "version": "2.6.1.3"
 }
