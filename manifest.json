@@ -463,6 +463,7 @@
         "*://*.rhein-zeitung.de/*",
         "*://*.rheinpfalz.de/*",
         "*://*.richmond.com/*",
+        "*://*.rnd.de/*",
         "*://*.roadandtrack.com/*",
         "*://*.rollingstone.com/*",
         "*://*.rugbypass.com/*",
@@ -654,5 +655,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.6.2.3"
+    "version": "2.6.2.4"
 }
