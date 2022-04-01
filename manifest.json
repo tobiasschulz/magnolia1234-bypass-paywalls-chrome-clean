@@ -185,9 +185,11 @@
         "*://*.elnortedecastilla.es/*",
         "*://*.elpais.com/*",
         "*://*.elperiodico.com/*",
+        "*://*.elperiodicodearagon.com/*",
         "*://*.elperiodicomediterraneo.com/*",
         "*://*.eltiempo.com/*",
         "*://*.entrepreneur.com/*",
+        "*://*.epe.es/*",
         "*://*.espn.com/*",
         "*://*.esprit.presse.fr/*",
         "*://*.esquire.com/*",
@@ -655,5 +657,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.6.2.4"
+    "version": "2.6.2.5"
 }
