@@ -27,6 +27,7 @@
             "*://*.inkl.com/*",
             "*://*.nationalgeographic.com/*",
             "*://*.nyteknik.se/*",
+             "*://*.nzherald.co.nz/*",
             "*://*.gitlab.com/magnolia1234"
         ],
         "run_at": "document_start",
@@ -41,5 +42,5 @@
         "webRequestBlocking",
         "<all_urls>"
     ],
-    "version": "2.6.2.5"
+    "version": "2.6.2.6"
 }
