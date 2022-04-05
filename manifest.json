@@ -72,7 +72,6 @@
         "*://*.backpacker.com/*",
         "*://*.baltimoresun.com/*",
         "*://*.barrons.com/*",
-        "*://*.bd.nl/*",
         "*://*.belfasttelegraph.co.uk/*",
         "*://*.bendigoadvertiser.com.au/*",
         "*://*.berliner-zeitung.de/*",
@@ -86,7 +85,6 @@
         "*://*.bloomberg.com/*",
         "*://*.bloombergquint.com/*",
         "*://*.bnd.com/*",
-        "*://*.bndestem.nl/*",
         "*://*.bnn.de/*",
         "*://*.bonappetit.com/*",
         "*://*.bordermail.com.au/*",
@@ -147,7 +145,6 @@
         "*://*.dealstreetasia.com/*",
         "*://*.demorgen.be/*",
         "*://*.denverpost.com/*",
-        "*://*.destentor.nl/*",
         "*://*.detroitnews.com/*",
         "*://*.deutsche-wirtschafts-nachrichten.de/*",
         "*://*.df.cl/*",
@@ -168,7 +165,6 @@
         "*://*.economictimes.com/*",
         "*://*.economictimes.indiatimes.com/*",
         "*://*.economist.com/*",
-        "*://*.ed.nl/*",
         "*://*.editorialedomani.it/*",
         "*://*.elcomercio.es/*",
         "*://*.elcomercio.pe/*",
@@ -221,7 +217,6 @@
         "*://*.ft.com/*",
         "*://*.ftm.nl/*",
         "*://*.geelongadvertiser.com.au/*",
-        "*://*.gelderlander.nl/*",
         "*://*.gelocal.it/*",
         "*://*.genomeweb.com/*",								
         "*://*.gestion.pe/*",
@@ -454,7 +449,6 @@
         "*://*.precisiononcologynews.com/*",
         "*://*.prevention.com/*",
         "*://*.prospectmagazine.co.uk/*",
-        "*://*.pzc.nl/*",
         "*://*.quora.com/*",
         "*://*.quotidiano.net/*",
         "*://*.quotidianodipuglia.it/*",
@@ -571,7 +565,6 @@
         "*://*.tri-cityherald.com/*",
         "*://*.triathlete.com/*",
         "*://*.trouw.nl/*",
-        "*://*.tubantia.nl/*",
         "*://*.tucson.com/*",
         "*://*.tulsaworld.com/*",
         "*://*.twincities.com/*",
@@ -658,5 +651,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.6.3.0"
+    "version": "2.6.3.1"
 }
