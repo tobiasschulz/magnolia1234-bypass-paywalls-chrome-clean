@@ -467,6 +467,7 @@
         "*://*.richmond.com/*",
         "*://*.rnd.de/*",
         "*://*.roadandtrack.com/*",
+        "*://*.rockandice.com/*",
         "*://*.rollingstone.com/*",
         "*://*.rugbypass.com/*",
         "*://*.rundschau-online.de/*",
@@ -656,5 +657,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.5.1"
+    "version": "2.6.5.2"
 }
