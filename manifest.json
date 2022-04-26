@@ -152,6 +152,7 @@
         "*://*.deutsche-wirtschafts-nachrichten.de/*",
         "*://*.df.cl/*",
         "*://*.di.se/*",
+        "*://*.diaridegirona.cat/*",
         "*://*.diariocordoba.com/*",
         "*://*.diariocorreo.pe/*",
         "*://*.diariodeibiza.es/*",
@@ -189,6 +190,7 @@
         "*://*.elperiodicoextremadura.com/*",
         "*://*.elperiodicomediterraneo.com/*",
         "*://*.eltiempo.com/*",
+        "*://*.emporda.info/*",
         "*://*.enotes.com/*",
         "*://*.entrepreneur.com/*",
         "*://*.epe.es/*",
@@ -661,5 +663,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.6.1"
+    "version": "2.6.6.2"
 }
