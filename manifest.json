@@ -451,6 +451,7 @@
         "*://*.precisiononcologynews.com/*",
         "*://*.prevention.com/*",
         "*://*.prospectmagazine.co.uk/*",
+        "*://*.puck.news/*",
         "*://*.quora.com/*",
         "*://*.quotidiano.net/*",
         "*://*.quotidianodipuglia.it/*",
@@ -653,5 +654,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.6.4"
+    "version": "2.6.6.5"
 }

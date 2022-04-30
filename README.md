@@ -183,6 +183,7 @@ Grouped in options:\
 [ESPN USA](https://www.espn.com) -
 [First Things](https://www.firstthings.com) -
 [National Review](https://www.nationalreview.com) -
+[Puck.news](https://puck.news) -
 [Rolling Stone](https://www.rollingstone.com) -
 [RugbyPass](https://www.rugbypass.com) -
 [Slate](https://slate.com) -
