@@ -144,6 +144,7 @@
         "*://*.dailyliberal.com.au/*",
         "*://*.dailypress.com/*",
         "*://*.dailytelegraph.com.au/*",
+        "*://*.dailywire.com/*",
         "*://*.dallasnews.com/*",
         "*://*.darkreading.com/*",
         "*://*.dealstreetasia.com/*",
@@ -659,5 +660,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.7.2"
+    "version": "2.6.7.3"
 }
