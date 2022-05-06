@@ -448,7 +448,6 @@
         "*://*.podiumrunner.com/*",
         "*://*.politicaexterior.com/*",
         "*://*.popularmechanics.com/*",
-        "*://*.portnews.com.au/*",
         "*://*.post-gazette.com/*",
         "*://*.precisiononcologynews.com/*",
         "*://*.prevention.com/*",
@@ -660,5 +659,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.7.3"
+    "version": "2.6.7.4"
 }
