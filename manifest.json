@@ -574,6 +574,7 @@
         "*://*.tucson.com/*",
         "*://*.tulsaworld.com/*",
         "*://*.twincities.com/*",
+        "*://*.unherd.com/*",
         "*://*.upstreamonline.com/*",
         "*://*.usatoday.com/*",
         "*://*.usinenouvelle.com/*",
@@ -658,5 +659,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.8.1"
+    "version": "2.6.8.2"
 }
