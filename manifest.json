@@ -62,6 +62,8 @@
         "*://*.americanaffairsjournal.org/*",
         "*://*.americanbanker.com/*",
         "*://*.apollo-magazine.com/*",
+        "*://*.ara.cat/*",
+        "*://*.arabalears.cat/*",
         "*://*.artnet.com/*",
         "*://*.arvopaperi.fi/*",
         "*://*.asiatimes.com/*",
@@ -664,5 +666,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.6.9.7"
+    "version": "2.6.9.8"
 }
