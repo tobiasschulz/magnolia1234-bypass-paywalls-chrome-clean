@@ -234,6 +234,7 @@
         "*://*.griffithreview.com/*",
         "*://*.groene.nl/*",
         "*://*.grubstreet.com/*",
+        "*://*.gva.be/*",
         "*://*.gymclimber.com/*",
         "*://*.haaretz.co.il/*",
         "*://*.haaretz.com/*",
@@ -243,6 +244,7 @@
         "*://*.haz.de/*",
         "*://*.hbr.org/*",
         "*://*.hbrchina.org/*",
+        "*://*.hbvl.be/*",
         "*://*.heraldsun.com.au/*",
         "*://*.hilltimes.com/*",
         "*://*.hindustantimes.com/*",
@@ -405,6 +407,7 @@
         "*://*.newyorker.com/*",
         "*://*.niagarafallsreview.ca/*",
         "*://*.nicematin.com/*",
+        "*://*.nieuwsblad.be/*",
         "*://*.nikkei.com/*",
         "*://*.nj.com/*",
         "*://*.nn.de/*",
@@ -666,5 +669,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.0.1"
+    "version": "2.7.0.2"
 }
