@@ -206,6 +206,7 @@
         "*://*.faz.net/*",
         "*://*.fd.nl/*",
         "*://*.finance.si/*",
+        "*://*.financialexpress.com/*",
         "*://*.financialpost.com/*",
         "*://*.firstthings.com/*",
         "*://*.fnlondon.com/*",
@@ -669,5 +670,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.0.4"
+    "version": "2.7.0.5"
 }
