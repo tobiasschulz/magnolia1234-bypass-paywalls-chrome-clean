@@ -129,6 +129,7 @@
         "*://*.connaissancedesarts.com/*",
         "*://*.corriere.it/*",
         "*://*.corriereadriatico.it/*",
+        "*://*.corrieredellosport.it/*",
         "*://*.cosmopolitan.com/*",
         "*://*.countryliving.com/*",
         "*://*.courant.com/*",
@@ -669,5 +670,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.0.3"
+    "version": "2.7.0.4"
 }
