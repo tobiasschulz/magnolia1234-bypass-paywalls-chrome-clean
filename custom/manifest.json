@@ -7,7 +7,7 @@
         "default_popup": "options/popup.html"
     },
     "description": "Bypass Paywalls of news sites",
-    "homepage_url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/README.md",
+    "homepage_url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean",
     "icons": {
         "128": "bypass.png"
     },
@@ -42,5 +42,5 @@
         "webRequestBlocking",
         "<all_urls>"
     ],
-    "version": "2.7.1.1"
+    "version": "2.7.1.2"
 }
