@@ -287,6 +287,7 @@
         "*://*.intrafish.com/*",
         "*://*.investorschronicle.co.uk/*",
         "*://*.ipolitics.ca/*",
+        "*://*.irishtimes.com/*",
         "*://*.italian.tech/*",
         "*://*.italiaoggi.it/*",
         "*://*.journaldunet.com/*",
@@ -670,5 +671,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.1.2"
+    "version": "2.7.1.3"
 }
