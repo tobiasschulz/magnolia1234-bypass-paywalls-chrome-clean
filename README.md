@@ -580,7 +580,7 @@ Grouped in options:\
 [Telegraaf](https://www.telegraaf.nl) -
 [Trouw](https://www.trouw.nl) -
 [Volkskrant](https://www.volkskrant.nl) -
-[Vrij Nederland](https://www.nl.nl)
+[Vrij Nederland](https://www.vn.nl)
 
 Grouped in options:\
 *Mediahuis België* sites like:\
