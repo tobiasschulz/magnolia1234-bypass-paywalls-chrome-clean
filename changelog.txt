@@ -7,7 +7,7 @@ Post-release
 Add Estado de Minas (Brazil)
 Add ilManifesto.it
 Add The Irish Times
-Remove Handelsblatt
+Remove Handelsblatt (fix obsolete)
 Remove Study.com (fix obsolete)
 Fix LesEchos.fr (refresh)
 Fix Quartz (newsletter)
