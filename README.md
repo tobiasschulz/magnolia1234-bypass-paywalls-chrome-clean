@@ -414,6 +414,7 @@ Grouped in options:\
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [Franc-Tireur](https://www.franc-tireur.fr) -
+[L'Avenir](https://www.lavenir.net) -
 [L'Écho](https://lecho.be) -
 [L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -

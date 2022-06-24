@@ -324,6 +324,7 @@
         "*://*.latimes.com/*",
         "*://*.latribune.fr/*",
         "*://*.lavanguardia.com/*",
+        "*://*.lavenir.net/*",
         "*://*.laverdad.es/*",
         "*://*.lavie.fr/*",
         "*://*.lavoixdunord.fr/*",
@@ -671,5 +672,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.2.2"
+    "version": "2.7.2.3"
 }
