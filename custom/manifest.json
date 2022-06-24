@@ -26,6 +26,7 @@
         "matches": [
             "*://*.inkl.com/*",
             "*://*.nationalgeographic.com/*",
+            "*://*.nautil.us/*",
             "*://*.nyteknik.se/*",
             "*://*.nzherald.co.nz/*",
             "*://*.gitlab.com/magnolia1234"
