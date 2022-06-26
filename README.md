@@ -175,6 +175,7 @@ Grouped in options:\
 [Towards Data Science](https://towardsdatascience.com)
 
 [Apollo Magazine](https://www.apollo-magazine.com) -
+[Artforum](https://www.artforum.com) -
 [Artnet](https://www.artnet.com) -
 [Atavist Magazine](https://magazine.atavist.com) -
 [Commentary Magazine](https://www.commentary.org) -
