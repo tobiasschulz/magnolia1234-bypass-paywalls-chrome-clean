@@ -373,6 +373,7 @@ Grouped in options:\
 [New Left Review](https://newleftreview.org) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
 [The Athletic UK](https://theathletic.co.uk) -
+[The Banker](https://www.thebanker.com) -
 [The Economist](https://www.economist.com) -
 [The Independent](https://www.independent.co.uk) -
 [The Irish Times](https://www.irishtimes.com) -
