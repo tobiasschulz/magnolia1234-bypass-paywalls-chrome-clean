@@ -91,12 +91,12 @@
         "*://*.bizjournals.com/*",
         "*://*.blogfolha.uol.com.br/*",
         "*://*.bloomberg.com/*",
-        "*://*.bloombergquint.com/*",
         "*://*.bnd.com/*",
         "*://*.bnn.de/*",
         "*://*.bonappetit.com/*",
         "*://*.bordermail.com.au/*",
         "*://*.bostonglobe.com/*",
+        "*://*.bqprime.com/*",
         "*://*.braunschweiger-zeitung.de/*",
         "*://*.brisbanetimes.com.au/*",
         "*://*.britannica.com/*",
@@ -675,5 +675,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.3.0"
+    "version": "2.7.3.1"
 }
