@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add BQ Prime (former Bloomberg Quint)
+Fix Financial Times (cookie-banner)
 Fix Knack.be & LeVif.be
 Fix Times of India (no amp)
 
@@ -1008,7 +1009,7 @@ Add Chronicle of Higher Education
 Add Diario Financiero (Chile)
 Add El Mercurio de Valparaiso (Chile)
 Fix MIT Technology Review
-Remove copy-notice in copied text of Financial Times (ft.com)
+Fix Financial Times (remove copy-notice)
 Update show options on update (now optional)
 
 * v1.8.2.0 (2020-08-23)
@@ -1179,7 +1180,7 @@ Fix WSJ (cookie-fix)
 * v1.6.4.4 (2020-03-15)
 Add The Athletic UK
 Add Il Messaggero (Italy)
-Fix Financial Times (ft.com)
+Fix Financial Times
 Update (custom)options UI
 Fix Corriere della Sera
 Fix custom sites (domains with capitals)
