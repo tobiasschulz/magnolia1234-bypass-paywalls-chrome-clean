@@ -503,6 +503,7 @@
         "*://*.spectator.com.au/*",
         "*://*.spectatorworld.com/*",
         "*://*.spglobal.com/*",
+        "*://*.spiegel.de/*",
         "*://*.sportico.com/*",
         "*://*.standard.net.au/*",
         "*://*.star-telegram.com/*",
@@ -674,5 +675,5 @@
         "*://*.wsj.net/*",
         "*://webcache.googleusercontent.com/*"
     ],
-    "version": "2.7.3.4"
+    "version": "2.7.3.5"
 }
