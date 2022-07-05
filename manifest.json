@@ -65,6 +65,7 @@
     "*://*.apollo-magazine.com/*",
     "*://*.ara.cat/*",
     "*://*.arabalears.cat/*",
+    "*://*.architecturaldigest.com/*",
     "*://*.artforum.com/*",
     "*://*.artnet.com/*",
     "*://*.arvopaperi.fi/*",
@@ -676,5 +677,5 @@
     "*://*.wsj.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.4.1"
+  "version": "2.7.4.2"
 }
