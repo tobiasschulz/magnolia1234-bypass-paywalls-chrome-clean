@@ -799,6 +799,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 3. Disable Javascript on the site (by browser, uBlock Origin or other extension).
 4. Add the domain as custom site for more bypass options.
 5. Open page in reader view (by browser or extension).
+6. Try one of the archive sites.
 
 ### Add custom site
 Add your own custom site (also for testing).  
