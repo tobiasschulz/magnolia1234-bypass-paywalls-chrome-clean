@@ -488,6 +488,7 @@
     "*://*.rundschau-online.de/*",
     "*://*.runnersworld.com/*",
     "*://*.sacbee.com/*",
+    "*://*.saltwire.com/*",
     "*://*.sandiegouniontribune.com/*",
     "*://*.science-et-vie.com/*",
     "*://*.science.org/*",
@@ -681,5 +682,5 @@
     "*://*.wsj.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.6.4"
+  "version": "2.7.6.5"
 }
