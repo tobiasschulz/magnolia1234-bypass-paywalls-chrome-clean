@@ -355,6 +355,7 @@
     "*://*.lesechos.fr/*",
     "*://*.lesinrocks.com/*",
     "*://*.lesoir.be/*",
+    "*://*.lesoleil.com/*",
     "*://*.lest-eclair.fr/*",
     "*://*.letelegramme.fr/*",
     "*://*.levante-emv.com/*",
@@ -680,7 +681,8 @@
     "*://*.static-chmedia.ch/*",
     "*://*.wallkit.net/*",
     "*://*.wsj.net/*",
+    "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.7.0"
+  "version": "2.7.7.1"
 }
