@@ -143,6 +143,7 @@
     "*://*.crainscleveland.com/*",
     "*://*.crainsdetroit.com/*",
     "*://*.crainsnewyork.com/*",
+    "*://*.crusoe.uol.com.br/*",
     "*://*.csmonitor.com/*",
     "*://*.curbed.com/*",
     "*://*.cw.com.tw/*",
@@ -684,5 +685,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.7.5"
+  "version": "2.7.7.6"
 }
