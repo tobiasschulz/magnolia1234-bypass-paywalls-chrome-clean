@@ -530,6 +530,7 @@
     "*://*.sun-sentinel.com/*",
     "*://*.svz.de/*",
     "*://*.syracuse.com/*",
+    "*://*.tagesspiegel.de/*",
     "*://*.talouselama.fi/*",
     "*://*.tampabay.com/*",
     "*://*.techinasia.com/*",
@@ -685,5 +686,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.8.0"
+  "version": "2.7.8.1"
 }
