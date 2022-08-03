@@ -510,9 +510,8 @@ Grouped in options:\
 [Golem.de](https://www.golem.de) -
 [Kölner Stadt-Anzeiger](https://www.ksta.de) -
 [Kölnische Rundschau](https://www.rundschau-online.de) -
-[Krautreporter.de](https://krautreporter.de) -
+[Krautreporter](https://krautreporter.de) -
 [Mitteldeutsche Zeitung](https://www.mz.de) -
-[Münstersche Zeitung](https://www.muensterschezeitung.de) -
 [Neue Osnabrücker Zeitung](https://www.noz.de) -
 [Nordwest Zeitung](https://www.nwzonline.de) -
 [Nürnberger Nachrichten](https://www.nn.de) -
@@ -521,9 +520,7 @@ Grouped in options:\
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Volksstimme](https://www.volksstimme.de) -
-[Westdeutsche Zeitung](https://www.wz.de) -
-[Westfalen-Blatt](https://www.westfalen-blatt.de) -
-[Westfälische Nachrichten](https://www.wn.de)
+[Westdeutsche Zeitung](https://www.wz.de)
 
 Grouped in options:\
 *Funke Mediengruppe* sites like (opt-in to custom sites for unlisted)\
@@ -545,7 +542,11 @@ Grouped in options:\
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse (Hannover)](https://www.neuepresse.de) -
 [Ostsee-Zeitung](https://www.ostsee-zeitung.de) -
-[RedaktionsNetzwerk Deutschland](https://www.rnd.de)
+[RedaktionsNetzwerk Deutschland](https://www.rnd.de)\
+*Westfälische Mediengruppe* sites like\
+[Münstersche Zeitung](https://www.muensterschezeitung.de) -
+[Westfalen-Blatt](https://www.westfalen-blatt.de) -
+[Westfälische Nachrichten](https://www.wn.de)
 
 ##### Italy
 [Corriere della Sera](https://www.corriere.it) -

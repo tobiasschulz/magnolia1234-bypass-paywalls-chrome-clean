@@ -1258,11 +1258,6 @@ var defaultSites = {
   "Mountain View Voice": {
     domain: "mv-voice.com"
   },
-  "Münstersche Zeitung": {
-    allow_cookies: 1,
-    domain: "muensterschezeitung.de",
-    block_regex: /cdn\.ampproject\.org\/v\d\/amp-subscriptions-.+\.js/
-  },
   "National Geographic USA": {
     domain: "nationalgeographic.com",
     allow_cookies: 1,
@@ -2010,17 +2005,15 @@ var defaultSites = {
     domain: "wz.de",
     useragent: "googlebot"
   },
-  "Westfalen-Blatt": {
-    domain: "westfalen-blatt.de",
+  "Westfälische Mediengruppe": {
+    domain: "###_de_westfalen_medien",
+    group: [
+      "muensterschezeitung.de",
+      "westfalen-blatt.de",
+      "wn.de"
+    ],
     allow_cookies: 1,
-    block_regex: /cdn\.ampproject\.org\/.+\/v\d\/amp-subscriptions-.+\.js/,
-    useragent: "googlebot"
-  },
-  "Westfälische Nachrichten": {
-    domain: "wn.de",
-    allow_cookies: 1,
-    block_regex: /cdn\.ampproject\.org\/v\d\/amp-subscriptions-.+\.js/,
-    useragent: "googlebot"
+    block_regex: /cdn\.ampproject\.org\/v\d\/amp-subscriptions-.+\.js/
   },
   "Winnipeg Free Press": {
     domain: "winnipegfreepress.com",
@@ -2202,6 +2195,7 @@ var au_comm_media_domains = grouped_sites['###_au_comm_media'];
 var au_news_corp_domains = grouped_sites['###_au_news_corp'];
 var be_mediahuis_domains = grouped_sites['###_be_mediahuis'];
 var ca_gcm_domains = grouped_sites['###_ca_gcm'];
+var de_westfalen_medien_domains = grouped_sites['###_de_westfalen_medien'];
 var fr_groupe_sud_ouest_domains = grouped_sites['###_fr_groupe_sud_ouest'];
 var it_repubblica_domains = defaultSites['###_gr_it_repubblica_domains']['group_rule_domains'];
 var medium_custom_domains = grouped_sites['###_medium_custom'];
