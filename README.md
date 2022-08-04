@@ -72,7 +72,7 @@ Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypas
 ### Update
 For crx-installation: check for updates (in chrome://extensions).\
 For zip-installation (load unpacked/developer mode): unzip files to installation folder or use a Git(Hub)-client to clone the extension (locally).\
-You can also check for update of site rules at startup (opt-in).\
+You can also check for update of site rules at startup (opt-in); only available until about 10 days after fix-release.\
 For new sites you also have to opt-in to custom sites/request permissions for new domains (or wait for new release).
 
 ### List of supported websites
@@ -174,7 +174,7 @@ Grouped in options:\
 ##### Magazines/Blogs
 [Medium](https://www.medium.com)*\
 Grouped in options:\
-*Medium custom domains* like (opt-in to custom sites for unlisted):\
+*Medium custom domains* like (opt-in to custom sites for unlisted)\
 [Better Programming](https://betterprogramming.pub) -
 [Towards Data Science](https://towardsdatascience.com)
 
@@ -611,7 +611,7 @@ Grouped in options:\
 [Leidsch Dagblad](https://www.leidschdagblad.nl) -
 [IJmuider Courant](https://www.ijmuidercourant.nl) -
 [De Gooi- en Eemlander](https://www.gooieneemlander.nl)\
-*Mediahuis Noord* sites like (opt-in to custom sites for unlisted):\
+*Mediahuis Noord* sites like (opt-in to custom sites for unlisted)\
 [Dagblad van het Noorden](https://www.dvhn.nl) -
 [Leeuwarder Courant](https://www.lc.nl)
 
@@ -636,7 +636,7 @@ Grouped in options:\
 *ARA* sites like\
 [Ara.cat](https://www.ara.cat) -
 [Ara Balears](https://www.arabalears.cat)\
-*Grupo Prensa Ibérica* sites like (opt-in to custom sites for unlisted):\
+*Grupo Prensa Ibérica* sites like (opt-in to custom sites for unlisted)\
 [Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Día](https://www.eldia.es) -
 [El Periódico de España](https://www.epe.es) -
