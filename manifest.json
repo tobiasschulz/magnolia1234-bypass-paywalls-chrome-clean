@@ -627,6 +627,7 @@
     "*://*.waz.de/*",
     "*://*.weeklytimesnow.com.au/*",
     "*://*.wellandtribune.ca/*",
+    "*://*.welt.de/*",
     "*://*.westernadvocate.com.au/*",
     "*://*.westfalen-blatt.de/*",
     "*://*.winnipegfreepress.com/*",
@@ -688,5 +689,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.8.6"
+  "version": "2.7.8.7"
 }
