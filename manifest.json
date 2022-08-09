@@ -45,6 +45,8 @@
     "webRequest",
     "webRequestBlocking",
     "*://*.360dx.com/*",
+    "*://*.aachener-nachrichten.de/*",
+    "*://*.aachener-zeitung.de/*",
     "*://*.aamulehti.fi/*",
     "*://*.abc.es/*",
     "*://*.abendblatt.de/*",
@@ -690,5 +692,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.9.0"
+  "version": "2.7.9.1"
 }
