@@ -387,7 +387,7 @@ Grouped in options:\
 [The New Statesman](https://www.newstatesman.com) -
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
-[The Times](https://www.thetimes.co.uk) -
+[The Times (link to archive.today)](https://www.thetimes.co.uk) -
 [The Times Literary Supplement](https://www.the-tls.co.uk) -
 [UnHerd](https://unherd.com)
 
@@ -495,22 +495,17 @@ Grouped in options:\
 [Sud Ouest](https://www.sudouest.fr)
 
 ##### Germany/Austria
-[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
-[Aachener Zeitung](https://www.aachener-zeitung.de) -
 [Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
 [Automobilwoche](https://www.automobilwoche.de) -
 [Badische Neueste Nachrichten](https://www.bnn.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
-[Der Spiegel](https://www.spiegel.de) -
-[Der Tagesspiegel](https://www.tagesspiegel.de) -
+[Der Spiegel (link to archive.today)](https://www.spiegel.de) -
 [Die Rheinpfalz](https://www.rheinpfalz.de) -
-[Die Welt](https://www.welt.de) -
 [Die Zeit](https://www.zeit.de) -
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Freie Presse](https://www.freiepresse.de) -
-[Golem.de](https://www.golem.de) -
 [Kölner Stadt-Anzeiger](https://www.ksta.de) -
 [Kölnische Rundschau](https://www.rundschau-online.de) -
 [Krautreporter](https://krautreporter.de) -
@@ -523,8 +518,7 @@ Grouped in options:\
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Volksstimme](https://www.volksstimme.de) -
-[Westdeutsche Zeitung](https://www.wz.de) -
-[WirtschaftsWoche](https://www.wiwo.de)
+[Westdeutsche Zeitung](https://www.wz.de)
 
 Grouped in options:\
 *Funke Mediengruppe* sites like (opt-in to custom sites for unlisted)\
@@ -587,7 +581,6 @@ Grouped in options:\
 [La Nazione](https://www.lanazione.it)
 
 ##### Netherlands/Flanders
-[De Limburger](https://www.limburger.nl) -
 [De Tijd](https://www.tijd.be) -
 [Financieele Dagblad](https://fd.nl) -
 [Follow the Money](https://www.ftm.nl) -
@@ -606,7 +599,6 @@ Grouped in options:\
 [Parool](https://www.parool.nl) -
 [Trouw](https://www.trouw.nl)\
 *Mediahuis België* sites like\
-[De Standaard](https://www.standaard.be) -
 [Gazet van Antwerpen](https://www.gva.be) -
 [Het Belang van Limburg](https://www.hbvl.be) -
 [Het Nieuwsblad](https://www.nieuwsblad.be)\
