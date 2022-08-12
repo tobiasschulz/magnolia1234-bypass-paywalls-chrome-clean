@@ -225,6 +225,7 @@
     "*://*.fresnobee.com/*",
     "*://*.ft.com/*",
     "*://*.ftm.nl/*",
+    "*://*.gazzetta.it/*",
     "*://*.geelongadvertiser.com.au/*",
     "*://*.gelocal.it/*",
     "*://*.genomeweb.com/*",
@@ -685,5 +686,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.7.9.4"
+  "version": "2.7.9.5"
 }
