@@ -91,7 +91,6 @@
     "*://*.bienpublic.com/*",
     "*://*.billboard.com/*",
     "*://*.bizjournals.com/*",
-    "*://*.blogfolha.uol.com.br/*",
     "*://*.bloomberg.com/*",
     "*://*.bnd.com/*",
     "*://*.bnn.de/*",
@@ -143,7 +142,6 @@
     "*://*.crainscleveland.com/*",
     "*://*.crainsdetroit.com/*",
     "*://*.crainsnewyork.com/*",
-    "*://*.crusoe.uol.com.br/*",
     "*://*.csmonitor.com/*",
     "*://*.curbed.com/*",
     "*://*.cw.com.tw/*",
@@ -214,7 +212,6 @@
     "*://*.financialpost.com/*",
     "*://*.firstthings.com/*",
     "*://*.fnlondon.com/*",
-    "*://*.folha.uol.com.br/*",
     "*://*.forbes.com/*",
     "*://*.foreignaffairs.com/*",
     "*://*.foreignpolicy.com/*",
@@ -602,6 +599,7 @@
     "*://*.tulsaworld.com/*",
     "*://*.twincities.com/*",
     "*://*.unherd.com/*",
+    "*://*.uol.com.br/*",
     "*://*.upstreamonline.com/*",
     "*://*.usatoday.com/*",
     "*://*.usinenouvelle.com/*",
@@ -688,5 +686,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.8.0.5"
+  "version": "2.8.0.6"
 }
