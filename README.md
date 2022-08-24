@@ -77,7 +77,7 @@ For new sites you also have to opt-in to custom sites/request permissions for ne
 
 ### List of supported websites
 
-_* free/cached articles only._
+_* free articles only._
 
 ##### World news
 [Foreign Affairs](https://www.foreignaffairs.com) -
@@ -147,6 +147,7 @@ Grouped in options:\
 [MIT Technology Review](https://www.technologyreview.com) -
 [National Geographic USA](https://www.nationalgeographic.com) -
 [Nautilus](https://nautil.us) -
+[New Scientist](https://www.newscientist.com) -
 [Science](https://www.science.org)* -
 [Scientific American](https://www.scientificamerican.com) -
 [Times Higher Education](https://www.timeshighereducation.com) -
@@ -777,7 +778,7 @@ Grouped in options:\
 [Grupo Abril](https://grupoabril.com.br) -
 [O Estado de S. Paulo](https://estadao.com.br) -
 [O Globo](https://oglobo.globo.com) -
-[Valor Econômico](https://valor.globo.com)*
+[Valor Econômico](https://valor.globo.com)
 
 Grouped in options:\
 *UOL* sites like\
@@ -800,7 +801,7 @@ Grouped in options:\
 [El Comercio](https://elcomercio.pe) -
 [Gestión](https://gestion.pe)
 
-_* free/cached articles only._
+_* free articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
