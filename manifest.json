@@ -463,6 +463,7 @@
     "*://*.piqd.de/*",
     "*://*.podiumrunner.com/*",
     "*://*.politicaexterior.com/*",
+    "*://*.popsci.com/*",
     "*://*.popularmechanics.com/*",
     "*://*.post-gazette.com/*",
     "*://*.precisiononcologynews.com/*",
@@ -688,5 +689,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.8.2.3"
+  "version": "2.8.2.4"
 }
