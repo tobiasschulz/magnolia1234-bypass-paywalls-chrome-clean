@@ -5,6 +5,11 @@
     "domain": "abqjournal.com",
     "useragent": "googlebot"
   },
+  "Agriinvestor.com": {
+    "allow_cookies": 1,
+    "domain": "agriinvestor.com",
+    "useragent": "googlebot"
+  },
   "Airmail.news": {
     "allow_cookies": 1,
     "domain": "airmail.news",
@@ -21,6 +26,11 @@
   "Businessnews.com.au": {
     "allow_cookies": 1,
     "domain": "businessnews.com.au",
+    "useragent": "googlebot"
+  },
+  "buyoutsinsider.com": {
+    "allow_cookies": 1,
+    "domain": "buyoutsinsider.com",
     "useragent": "googlebot"
   },
   "Capital.bg": {
@@ -121,10 +131,30 @@
     "block_regex": "\\.tinypass\\.com\\/",
     "domain": "nationalobserver.com"
   },
+  "Newprivatemarkets.com": {
+    "allow_cookies": 1,
+    "domain": "newprivatemarkets.com",
+    "useragent": "googlebot"
+  },
   "Nv.ua": {
     "allow_cookies": 1,
     "amp_redirect": "div[id^=\"media_paywall\"]",
     "domain": "nv.ua"
+  },
+  "Pehub.com": {
+    "allow_cookies": 1,
+    "domain": "pehub.com",
+    "useragent": "googlebot"
+  },
+  "Pehubeurope.com": {
+    "allow_cookies": 1,
+    "domain": "pehubeurope.com",
+    "useragent": "googlebot"
+  },
+  "Perenews.com": {
+    "allow_cookies": 1,
+    "domain": "perenews.com",
+    "useragent": "googlebot"
   },
   "Physicsworld.com": {
     "domain": "physicsworld.com"
@@ -134,9 +164,39 @@
     "domain": "pressandjournal.co.uk",
     "useragent": "googlebot"
   },
+  "Privatedebtinvestor.com": {
+    "allow_cookies": 1,
+    "domain": "privatedebtinvestor.com",
+    "useragent": "googlebot"
+  },
   "Privateequityinternational.com": {
     "allow_cookies": 1,
     "domain": "privateequityinternational.com",
+    "useragent": "googlebot"
+  },
+  "Privatefundscfo.com": {
+    "allow_cookies": 1,
+    "domain": "privatefundscfo.com",
+    "useragent": "googlebot"
+  },
+  "Recapitalnews.com": {
+    "allow_cookies": 1,
+    "domain": "recapitalnews.com",
+    "useragent": "googlebot"
+  },
+  "Recapitalusa.com": {
+    "allow_cookies": 1,
+    "domain": "recapitalusa.com",
+    "useragent": "googlebot"
+  },
+  "Regcompliancewatch.com": {
+    "allow_cookies": 1,
+    "domain": "regcompliancewatch.com",
+    "useragent": "googlebot"
+  },
+  "Responsible-investor.com": {
+    "allow_cookies": 1,
+    "domain": "responsible-investor.com",
     "useragent": "googlebot"
   },
   "Reviewjournal.com": {
@@ -148,6 +208,11 @@
     "allow_cookies": 1,
     "block_regex": "\\.tinypass\\.com\\/",
     "domain": "schweizer-illustrierte.ch"
+  },
+  "Secondariesinvestor.com": {
+    "allow_cookies": 1,
+    "domain": "secondariesinvestor.com",
+    "useragent": "googlebot"
   },
   "Speld.nl": {
     "domain": "speld.nl"
@@ -200,6 +265,11 @@
     "allow_cookies": 1,
     "block_regex": "\\.tinypass\\.com\\/",
     "domain": "toledoblade.com"
+  },
+  "Venturecapitaljournal.com": {
+    "allow_cookies": 1,
+    "domain": "venturecapitaljournal.com",
+    "useragent": "googlebot"
   },
   "Vigilantcitizen.com": {
     "allow_cookies": 1,
