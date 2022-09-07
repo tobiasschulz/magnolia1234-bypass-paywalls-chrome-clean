@@ -86,6 +86,11 @@
     "block_regex": "\\.tinypass\\.com\\/",
     "domain": "inews.co.uk"
   },
+  "Infrastructureinvestor": {
+    "allow_cookies": 1,
+    "domain": "infrastructureinvestor",
+    "useragent": "googlebot"
+  },
   "Internationalepolitik.de": {
     "allow_cookies": 1,
     "domain": "internationalepolitik.de"
