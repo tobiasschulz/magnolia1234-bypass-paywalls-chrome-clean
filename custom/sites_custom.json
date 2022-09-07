@@ -134,6 +134,11 @@
     "domain": "pressandjournal.co.uk",
     "useragent": "googlebot"
   },
+  "Privateequityinternational.com": {
+    "allow_cookies": 1,
+    "domain": "privateequityinternational.com",
+    "useragent": "googlebot"
+  },
   "Reviewjournal.com": {
     "allow_cookies": 1,
     "block_regex": "js\\.matheranalytics\\.com",
