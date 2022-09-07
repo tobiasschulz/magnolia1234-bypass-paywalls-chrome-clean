@@ -129,6 +129,11 @@
   "Physicsworld.com": {
     "domain": "physicsworld.com"
   },
+  "Penews.com": {
+    "allow_cookies": 0,
+    "domain": "penews.com",
+    "useragent": "googlebot"
+  },
   "Pressandjournal.co.uk": {
     "allow_cookies": 1,
     "domain": "pressandjournal.co.uk",
