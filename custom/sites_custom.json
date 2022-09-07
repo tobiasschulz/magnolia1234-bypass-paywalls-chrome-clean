@@ -196,6 +196,11 @@
     "block_regex": "\\.tinypass\\.com\\/",
     "domain": "toledoblade.com"
   },
+  "Venturecapitaljournal.com": {
+    "allow_cookies": 1,
+    "domain": "venturecapitaljournal.com",
+    "useragent": "googlebot"
+  },
   "Vigilantcitizen.com": {
     "allow_cookies": 1,
     "domain": "vigilantcitizen.com",
