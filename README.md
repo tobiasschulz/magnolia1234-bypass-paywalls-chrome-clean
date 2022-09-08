@@ -67,7 +67,7 @@ Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypas
 * Do not delete extension's folder from your computer/smartphone or Bypass Paywalls Clean (in developer mode) will disappear at restart.
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 * You will be logged out for most of the sites you have checked.
-* Some sites need to redirect to an amp-page (add an exception in your `Redirect AMP to HTML` extension or disable Brave > Shields > Auto-redirect AMP pages).
+* Some sites need to redirect to an amp-page (add an exception in your `Redirect AMP to HTML` or `DuckDuckGo Privacy Essentials` extension or disable Brave > Shields > Auto-redirect AMP pages).
 
 ### Update
 For crx-installation: check for updates (in chrome://extensions).\
@@ -132,12 +132,15 @@ Grouped in options:\
 [Crain's Cleveland Business](https://www.crainscleveland.com) -
 [Crain's Detroit Business](https://www.crainsdetroit.com) -
 [Crain's New York Business](https://www.crainsnewyork.com) -
-[Modern Healthcare](https://www.modernhealthcare.com)\
+[Modern Healthcare](https://www.modernhealthcare.com)
+
 *NHST Media Group* sites like\
 [Intrafish](https://www.intrafish.com) -
 [Recharge](https://www.rechargenews.com) -
 [TradeWinds](https://www.tradewindsnews.com) -
 [Upstream](https://www.upstreamonline.com)
+
+*[PEI Media](https://www.thisispei.com)* sites (opt-in to custom sites)
 
 ##### Tech/Science
 [Chemical & Engineering News](https://cen.acs.org) -
