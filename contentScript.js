@@ -2183,7 +2183,7 @@ else if (matchDomain('spectator.co.uk')) {
   if (window.location.pathname.match(/\/amp(\/)?$/)) {
     let banners = document.querySelectorAll('div[amp-access^="p.show"], div[amp-access*="NOT loggedIn"]');
     removeDOMElement(...banners);
-  } else if (window.location.pathname.startsWith('/article2/')) {
+  } else if (window.location.pathname.startsWith('/article/')) {
     let paywall = document.querySelector('.HardPayWallContainer-module__overlay');
     let body_par = document.querySelector('p[class^="ContentPageBodyParagraph"]');
     let amphtml = document.querySelector('link[rel="amphtml"]');
