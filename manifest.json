@@ -228,6 +228,7 @@
     "*://*.fresnobee.com/*",
     "*://*.ft.com/*",
     "*://*.ftm.nl/*",
+    "*://*.ga.de/*",
     "*://*.gazzetta.it/*",
     "*://*.geelongadvertiser.com.au/*",
     "*://*.gelocal.it/*",
@@ -498,9 +499,11 @@
     "*://*.roadandtrack.com/*",
     "*://*.rockandice.com/*",
     "*://*.rollingstone.com/*",
+    "*://*.rp-online.de/*",
     "*://*.rugbypass.com/*",
     "*://*.rundschau-online.de/*",
     "*://*.runnersworld.com/*",
+    "*://*.saarbruecker-zeitung.de/*",
     "*://*.sacbee.com/*",
     "*://*.saltwire.com/*",
     "*://*.sandiegouniontribune.com/*",
@@ -628,6 +631,7 @@
     "*://*.vegetariantimes.com/*",
     "*://*.velonews.com/*",
     "*://*.venturebeat.com/*",
+    "*://*.volksfreund.de/*",
     "*://*.vn.nl/*",
     "*://*.vogue.com/*",
     "*://*.voguebusiness.com/*",
@@ -704,5 +708,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.8.6.5"
+  "version": "2.8.6.6"
 }
