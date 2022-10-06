@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Remove Alma Talent sites (hold Iltalehti.fi)
+Remove Nuernberger Nachrichten (fix obsolete)
 Fix Corriere dello Sport (subdomains)
 Fix NTNews.com.au (Chrome-only)
 Fix WaPo
