@@ -388,6 +388,7 @@
     "*://*.mcall.com/*",
     "*://*.medianama.com/*",
     "*://*.medium.com/*",
+    "*://*.medscape.com/*",
     "*://*.menshealth.com/*",
     "*://*.mercurynews.com/*",
     "*://*.mexiconewsdaily.com/*",
@@ -685,6 +686,7 @@
     "*://*.loader-cdn.azureedge.net/*",
     "*://*.mcclatchy.com/*",
     "*://*.mcclatchyinteractive.com/*",
+    "*://*.medscapestatic.com/*",
     "*://*.natgeofe.com/*",
     "*://*.ndcmediagroep.nl/*",
     "*://*.nyt.com/*",
@@ -701,5 +703,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.8.7.5"
+  "version": "2.8.7.6"
 }
