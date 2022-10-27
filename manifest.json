@@ -552,6 +552,7 @@
     "*://*.suomensotilas.fi/*",
     "*://*.svz.de/*",
     "*://*.syracuse.com/*",
+    "*://*.tagesspiegel.de/*",
     "*://*.tampabay.com/*",
     "*://*.techinasia.com/*",
     "*://*.technologyreview.com/*",
@@ -714,5 +715,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.0.5"
+  "version": "2.9.0.6"
 }
