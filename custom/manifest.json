@@ -23,11 +23,6 @@
     "incognito": "split",
     "content_scripts": [{
         "matches": [
-            "*://*.inkl.com/*",
-            "*://*.nationalgeographic.com/*",
-            "*://*.nautil.us/*",
-            "*://*.nyteknik.se/*",
-            "*://*.nzherald.co.nz/*",
             "*://*.gitlab.com/magnolia1234"
         ],
         "run_at": "document_start",
@@ -42,5 +37,5 @@
         "webRequestBlocking",
         "<all_urls>"
     ],
-    "version": "2.9.1.5"
+    "version": "2.9.1.6"
 }
