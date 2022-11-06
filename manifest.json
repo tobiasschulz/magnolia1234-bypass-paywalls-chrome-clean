@@ -441,6 +441,7 @@
     "*://*.nybooks.com/*",
     "*://*.nydailynews.com/*",
     "*://*.nymag.com/*",
+    "*://*.nysun.com/*",
     "*://*.nyteknik.se/*",
     "*://*.nytimes.com/*",
     "*://*.nzherald.co.nz/*",
@@ -707,5 +708,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.1.6"
+  "version": "2.9.1.7"
 }
