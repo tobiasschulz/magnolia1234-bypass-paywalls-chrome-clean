@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v2.9.2.5 (2022-11-08)
 Add Record.pt
 Add The New York Post
 Fix Cmjornal.pt
