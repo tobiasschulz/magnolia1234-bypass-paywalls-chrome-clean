@@ -3,6 +3,8 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Ad.nl (+ regional) & Hln.be
+Remove Dn.no
+Fix NHST Media Group
 Fix Tagesspiegel.de (link to archive.is)
 
 * v2.9.2.5 (2022-11-08)
