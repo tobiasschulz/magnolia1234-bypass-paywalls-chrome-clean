@@ -6,7 +6,7 @@ var ext_name = manifestData.name;
 var ext_version = manifestData.version;
 var navigator_ua = navigator.userAgent;
 var navigator_ua_mobile = navigator_ua.toLowerCase().includes('mobile');
-var kiwi_browser = navigator_ua_mobile && !navigator_ua.toLowerCase().includes('yabrowser');
+var kiwi_browser = navigator_ua_mobile && (url_loc === 'chrome') && !navigator_ua.toLowerCase().includes('yabrowser');
 
 const dompurify_sites = ['arcinfo.ch', 'asiatimes.com', 'bloomberg.com', 'cicero.de', 'ilmanifesto.it', 'iltalehti.fi', 'iltirreno.it', 'ipolitics.ca', 'italiaoggi.it', 'lanuovasardegna.it', 'lequipe.fr', 'lesechos.fr', 'marianne.net', 'mediapart.fr', 'newleftreview.org', 'newscientist.com', 'nzherald.co.nz', 'outlookbusiness.com', 'prospectmagazine.co.uk', 'spectator.co.uk', 'stratfor.com', 'techinasia.com', 'timesofindia.com', 'valor.globo.com', 'vn.nl'].concat(nl_mediahuis_region_domains);
 var optin_setcookie = false;
