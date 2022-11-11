@@ -12,6 +12,7 @@ Fix Koelner Stadt-Anzeiger & Koelnische Rundschau
 Fix La Croix
 Fix NHST Media Group
 Fix Tagesspiegel.de (link to archive.is)
+Fix The Spectator UK
 
 * v2.9.2.5 (2022-11-08)
 Add Record.pt
