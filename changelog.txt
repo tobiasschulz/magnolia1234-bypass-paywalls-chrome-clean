@@ -5,6 +5,8 @@ Post-release
 Add Ad.nl (+ regional) & Hln.be
 Add Public.fr
 Remove Dn.no (fix obsolete)
+Remove GElocal.it & Huffintonpost.it (fix obsolete)
+Remove Il Secolo XIX, La Stampa & Limes Online (fix obsolete)
 Fix Koelner Stadt-Anzeiger & Koelnische Rundschau
 Fix La Croix
 Fix NHST Media Group
