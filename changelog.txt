@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Ad.nl (+ regional) & Hln.be
+Add Field & Stream
 Add Public.fr
 Remove Dn.no (fix obsolete)
 Remove GElocal.it & Huffintonpost.it (fix obsolete)
