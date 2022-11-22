@@ -729,21 +729,16 @@ Grouped in options:\
 
 ##### Australia/New Zealand
 
-[Brisbane Times](https://www.brisbanetimes.com.au) -
 [Eureka Report](https://www.eurekareport.com.au) -
 [Griffith Review](https://www.griffithreview.com) -
 [Intelligent Investor](https://www.intelligentinvestor.com.au) -
 [New Zealand Herald](https://www.nzherald.co.nz) -
-[The Age](https://www.theage.com.au) -
-[The Australian Financial Review](https://www.afr.com) -
 [The Saturday Paper](https://www.thesaturdaypaper.com.au) -
 [The Spectator Australia](https://www.spectator.com.au) -
-[The Sydney Morning Herald](https://www.smh.com.au) -
-[The West Australian (+ regional/opt-in to custom sites)](https://thewest.com.au) -
-[WAtoday](https://www.watoday.com.au)
+[The West Australian (+ regional/opt-in to custom sites)](https://thewest.com.au)
 
 Grouped in options:\
-*News Corp Australia* sites like\
+*Australia News Corp* sites like\
 [Cairns Post](https://www.cairnspost.com.au) -
 [Code Sports](https://www.codesports.com.au) -
 [Geelong Advertiser](https://www.geelongadvertiser.com.au) -
@@ -758,6 +753,12 @@ Grouped in options:\
 [The Mercury Tasmania](https://www.themercury.com.au) -
 [The Weekly Times](https://www.weeklytimesnow.com.au) -
 [Townsville Bulletin](https://www.townsvillebulletin.com.au)\
+*Australia Nine Entertainment* sites like\
+[Brisbane Times](https://www.brisbanetimes.com.au) -
+[The Age](https://www.theage.com.au) -
+[The Australian Financial Review](https://www.afr.com) -
+[The Sydney Morning Herald](https://www.smh.com.au) -
+[WAtoday](https://www.watoday.com.au)
 *Australian Community Media (daily)* sites like (opt-in to custom sites for unlisted)\
 [Bendigo Advertiser](https://www.bendigoadvertiser.com.au) -
 [Central Western Daily](https://www.centralwesterndaily.com.au) -
