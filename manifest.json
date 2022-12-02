@@ -554,6 +554,7 @@
     "*://*.substack.com/*",
     "*://*.sudinfo.be/*",
     "*://*.sudouest.fr/*",
+    "*://*.sueddeutsche.de/*",
     "*://*.sun-sentinel.com/*",
     "*://*.suomensotilas.fi/*",
     "*://*.svz.de/*",
@@ -718,5 +719,5 @@
     "*://gcm.omerlocdn.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.5.3"
+  "version": "2.9.5.4"
 }
