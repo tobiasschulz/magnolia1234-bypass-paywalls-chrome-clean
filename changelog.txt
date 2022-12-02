@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add DN.no
 Add Welt.de (link to archive.is)
 Remove BusinessPost.ie (fix obsolete)
 Remove Philonomist (fix obsolete)
@@ -32,7 +33,7 @@ Add Field & Stream
 Add Nieuwsblad.be & Standaard.be (link to archive.is)
 Add Philomag.com
 Add Public.fr
-Remove Dn.no (fix obsolete)
+Remove DN.no (fix obsolete)
 Remove GElocal.it & Huffintonpost.it (fix obsolete)
 Remove Il Secolo XIX, La Stampa & Limes Online (fix obsolete)
 Fix Grupo Vocento
