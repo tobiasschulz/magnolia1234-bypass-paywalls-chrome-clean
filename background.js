@@ -36,6 +36,7 @@ var restrictions = {
   'repubblica.it': /^((?!\/video\.repubblica\.it\/).)*$/,
   'seekingalpha.com': /\/seekingalpha\.com($|\/($|(amp\/)?(article|news)\/|samw\/))/,
   'statista.com': /^((?!\.statista\.com\/(outlook|study)\/).)*$/,
+  'tagesspiegel.de': /^((?!\/background\.tagesspiegel\.de\/).)*$/,
   'techinasia.com': /\.techinasia\.com\/.+/,
   'theatlantic.com': /^((?!\/newsletters\.theatlantic\.com\/).)*$/,
   'thetimes.co.uk': /^((?!epaper\.thetimes\.co\.uk).)*$/,
@@ -1322,9 +1323,8 @@ ext_api.runtime.onMessage.addListener(function (message, sender) {
           rules = {block_regex: "(\\.{domain}\\/impresa\\/.+\\/assets\\/(vendor|\\d)\\.js|pram\\.pasedigital\\.cl\\/API\\/User\\/Status\\?)"};
         else {
           rules = Object.values(defaultSites).filter(x => x.domain === group)[0];
-          if (group === '###_usa_gannett') {
+          if (group === '###_usa_gannett')
             rules.amp_unhide = 1;
-		  }
         }
         if (rules) {
           customAddRules(custom_domain, rules);
