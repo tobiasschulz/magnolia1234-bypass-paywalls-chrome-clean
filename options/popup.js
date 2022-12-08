@@ -74,7 +74,9 @@ function showArchiveLinks() {
       let url = tabs[0].url.split('?')[0];
       let archive_array = {
         'Archive.today': 'https://archive.today?run=1&url=' + url,
-        'Google webcache': 'https://webcache.googleusercontent.com/search?q=cache:' + url
+        'Google webcache': 'https://webcache.googleusercontent.com/search?q=cache:' + url,
+        'ghostarchive.org': 'https://ghostarchive.org/save/' + url,
+
       };
       let archive_id = document.querySelector('span#archive');
       if (archive_id) {
