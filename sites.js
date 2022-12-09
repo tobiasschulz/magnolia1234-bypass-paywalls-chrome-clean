@@ -1552,6 +1552,9 @@ var defaultSites = {
     allow_cookies: 1,
     block_regex: /\.tinypass\.com\//
   },
+  "Quizlet (partial bypass)": {
+    domain: "quizlet.com",
+  },
   "Quora (regwall)": {
     domain: "quora.com",
     useragent: "googlebot"
