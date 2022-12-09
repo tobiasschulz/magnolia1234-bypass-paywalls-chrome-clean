@@ -3617,6 +3617,18 @@ else if (matchDomain('puck.news')) {
       article_style.removeAttribute('style');
   }
 }
+else if (matchDomain('quizlet.com')) {
+ if (window.location.pathname.startsWith('/explanations/textbook-solutions/')) {
+   let solutionexp = document.querySelector(".ExplanationSolutionsContainer")
+   if (solutionexp) {
+     let hb = document.querySelector('.hideBelow--s');
+     let ha = document.querySelector('.hideAbove--s');
+     removeDOMElement(hb, ha)
+     solutionexp.style.overflow = "inherit"
+     solutionexp.style.setProperty("--s1oluvjw-0", "15em")
+   }  
+ }
+}
 
 else if (matchDomain('quora.com')) {
   let overlays = document.querySelectorAll('div[class*="_overlay"]');
