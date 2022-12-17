@@ -38,5 +38,5 @@
     "webRequestBlocking",
     "*://*/*"
   ],
-  "version": "2.9.7.6"
+  "version": "2.9.7.7"
 }
