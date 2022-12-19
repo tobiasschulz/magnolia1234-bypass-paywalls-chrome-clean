@@ -656,6 +656,7 @@
     "*://*.westfalen-blatt.de/*",
     "*://*.winnipegfreepress.com/*",
     "*://*.wired.com/*",
+    "*://*.wiwo.de/*",
     "*://*.wn.de/*",
     "*://*.womenshealthmag.com/*",
     "*://*.womensrunning.com/*",
@@ -701,5 +702,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.8.0"
+  "version": "2.9.8.2"
 }
