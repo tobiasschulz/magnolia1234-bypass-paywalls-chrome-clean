@@ -1,5 +1,10 @@
 "use strict";
-var ext_api = chrome || browser;
+var ext_api = (typeof browser === 'object') ? browser : chrome;
+var manifestData = ext_api.runtime.getManifest();
+var navigator_ua = navigator.userAgent;
+var navigator_ua_mobile = navigator_ua.toLowerCase().includes('mobile');
+var kiwi_browser = navigator_ua_mobile && !navigator_ua.toLowerCase().includes('yabrowser');
+var custom_switch = manifestData.optional_permissions && !kiwi_browser;
 
 window.addEventListener("load", function () {
     var opt_in_enabled = document.getElementById('opt-in-enabled');
@@ -42,6 +47,8 @@ window.addEventListener("load", function () {
         }
     });
 
+    if (custom_switch) {
+
     document.querySelector('#custom-enable').addEventListener('click', function (event) {
         ext_api.permissions.request({
             origins: ["*://*/*"]
@@ -62,7 +69,7 @@ window.addEventListener("load", function () {
 
     document.querySelector('#custom-disable').addEventListener('click', function (event) {
         ext_api.permissions.remove({
-            origins: ["*://*/*"]
+            origins: ["*://*/*", "<all_urls>"]
         }, function (removed) {
             if (removed) {
                 custom_enabled.innerText = 'NO';
@@ -75,6 +82,8 @@ window.addEventListener("load", function () {
             });
         });
     });
+
+    }// custom_switch
 
     var update_enabled = document.getElementById('update-enabled');
     ext_api.storage.local.get({optInUpdate: true}, function (result) {
