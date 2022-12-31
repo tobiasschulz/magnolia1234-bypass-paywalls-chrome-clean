@@ -402,6 +402,7 @@
     "*://*.monacomatin.mc/*",
     "*://*.morgenpost.de/*",
     "*://*.muensterschezeitung.de/*",
+    "*://*.mundodeportivo.com/*",
     "*://*.mv-voice.com/*",
     "*://*.mz.de/*",
     "*://*.nationalgeographic.com/*",
@@ -707,5 +708,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.9.4"
+  "version": "2.9.9.5"
 }
