@@ -473,6 +473,7 @@
     "*://*.petitbleu.fr/*",
     "*://*.philanthropy.com/*",
     "*://*.philomag.com/*",
+    "*://*.philomag.de/*",
     "*://*.philosophynow.org/*",
     "*://*.pilotonline.com/*",
     "*://*.piqd.de/*",
@@ -708,5 +709,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.9.5"
+  "version": "2.9.9.6"
 }
