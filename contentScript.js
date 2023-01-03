@@ -731,8 +731,10 @@ else if (matchDomain('spiegel.de')) {
   if (paywall) {
     removeDOMElement(paywall);
     let article = document.querySelector('div[data-area="body"]');
-    if (article)
+    if (article) {
+      article.insertBefore(garchiveLink(url), article.firstChild);
       article.insertBefore(archiveLink(url), article.firstChild);
+    }
   }
 }
 
@@ -2246,8 +2248,10 @@ else if (matchDomain('independent.co.uk')) {
     if (paywall && !related && !msg) {
       paywall.classList.remove('article-premium');
       let article = document.querySelector('div#main');
-      if (article)
+      if (article) {
+        article.insertBefore(garchiveLink(url), article.firstChild);
         article.insertBefore(archiveLink(url), article.firstChild);
+      }
     }
   }
 }
@@ -2331,8 +2335,10 @@ else if (matchDomain('thetimes.co.uk')) {
     if (paywall && !url.includes('?shareToken=')) {
       removeDOMElement(paywall);
       let article = document.querySelector('article[class^="responsive__BodyContainer"]');
-      if (article)
+      if (article) {
+        article.insertBefore(garchiveLink(url), article.firstChild);
         article.insertBefore(archiveLink(url), article.firstChild);
+      }
     }
     let paywall_page = document.querySelector('div#paywall-portal-page-footer');
     removeDOMElement(paywall_page);
@@ -3003,8 +3009,10 @@ else if (matchDomain('espn.com')) {
   if (paywall) {
     removeDOMElement(paywall);
     let article = document.querySelector('div.article-body');
-    if (article)
+    if (article) {
+      article.insertBefore(garchiveLink(url), article.firstChild);
       article.insertBefore(archiveLink(url), article.firstChild);
+    }
   }
 }
 
@@ -3592,8 +3600,10 @@ else if (matchDomain('project-syndicate.org')) {
   if (paywall) {
     removeDOMElement(paywall);
     let article = document.querySelector('div[data-page-area="article-body"]');
-    if (article)
+    if (article) {
+      article.insertBefore(garchiveLink(url), article.firstChild);
       article.insertBefore(archiveLink(url), article.firstChild);
+    }
   }
 }
 
@@ -4611,6 +4621,10 @@ function ampToHtml() {
     let canonical = document.querySelector('link[rel="canonical"]');
     window.location.href = canonical.href;
   }, 1000);
+}
+function garchiveLink(url, text_fail = 'BPC > Full article text:\r\n') {
+  let encodedUrl = encodeURIComponent(url)
+  return externalLink(['ghostarchive.org'], 'https://{domain}/search?term={url}', encodedUrl, text_fail);
 }
 
 function archiveLink(url, text_fail = 'BPC > Full article text:\r\n') {
