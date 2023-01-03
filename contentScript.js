@@ -4614,7 +4614,7 @@ function ampToHtml() {
 }
 
 function archiveLink(url, text_fail = 'BPC > Full article text:\r\n') {
-  return externalLink(['archive.today', 'archive.is'], 'https://{domain}?run=1&url={url}', url, text_fail);
+  return externalLink(['archive.today'], 'https://{domain}/{url}', url, text_fail);
 }
 
 function googleWebcacheLink(url, text_fail = 'BPC > Full article text:\r\n') {
