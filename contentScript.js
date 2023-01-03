@@ -3415,6 +3415,12 @@ else if (matchDomain('nationalgeographic.com')) {
     }
     let ads = document.querySelectorAll('div.ad-slot');
     removeDOMElement(...ads);
+    let pms = document.querySelectorAll('.PaywallModal');
+    removeDOMElement(...pms);
+    let sl = document.querySelector('.Scroll--locked');
+    if (sl) {
+      sl.setAttribute('style', 'overflow: visible !important;');
+    }
   }, 1000);
 }
 
