@@ -345,6 +345,7 @@
     "*://*.law.com/*",
     "*://*.lc.nl/*",
     "*://*.lecho.be/*",
+    "*://*.lecourrierdesstrateges.fr/*",
     "*://*.ledauphine.com/*",
     "*://*.ledevoir.com/*",
     "*://*.lehighvalleylive.com/*",
@@ -708,5 +709,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.9.6"
+  "version": "2.9.9.7"
 }

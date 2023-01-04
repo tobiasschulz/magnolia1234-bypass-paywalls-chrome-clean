@@ -40,10 +40,10 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 #### CRX-file: other Chromium browsers (Opera/Vivaldi/Yandex)
 * or add extension to allowlist for Chrome, MS Edge or Brave (see [instructions](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist/README.md))
 
-1. Download the extension as a crx-file from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
-2. In your browser go to the extensions page.
+1. Download the extension as a crx-file (save link as) from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
+2. In your browser go to the extensions page (`chrome://extensions`).
 3. Enable Developer Mode.
-4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
+4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic updates).
 
 *  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
@@ -457,6 +457,7 @@ Grouped in options:\
 [La Libre](https://www.lalibre.be) -
 [La Nouvelle République du Centre-Ouest](https://www.lanouvellerepublique.fr) -
 [La Tribune](https://www.latribune.fr) -
+[Le Courrier des Stratèges](https://lecourrierdesstrateges.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Nouvel Economiste](https://www.lenouveleconomiste.fr) -
