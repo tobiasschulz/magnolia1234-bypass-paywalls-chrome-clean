@@ -600,6 +600,7 @@
     "*://*.thepeterboroughexaminer.com/*",
     "*://*.thepointmag.com/*",
     "*://*.theprovince.com/*",
+    "*://*.thequint.com/*",
     "*://*.therecord.com/*",
     "*://*.thesaturdaypaper.com.au/*",
     "*://*.thespec.com/*",
@@ -708,5 +709,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "2.9.9.7"
+  "version": "2.9.9.8"
 }
