@@ -547,6 +547,8 @@ Grouped in options:\
 [WirtschaftsWoche](https://www.wiwo.de)
 
 Grouped in options:\
+*[Deutscher Fachverlag Mediengruppe](https://www.dfv.de)* (opt-in to custom sites)
+
 *Funke Mediengruppe* sites like (opt-in to custom sites for unlisted)\
 [Berliner Morgenpost](https://www.morgenpost.de) -
 [Braunschweiger Zeitung](https://www.braunschweiger-zeitung.de) -
@@ -571,7 +573,7 @@ Grouped in options:\
 [Neue Osnabrücker Zeitung](https://www.noz.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de)\
-*Rheinische Post Mediengruppe* sites like
+*Rheinische Post Mediengruppe* sites like\
 [Aachener Nachrichten](https://www.aachener-nachrichten.de) -
 [Aachener Zeitung](https://www.aachener-zeitung.de) -
 [General-Anzeiger Bonn](https://ga.de) -
