@@ -45,7 +45,7 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic updates).
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
+* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) from the Google PlayStore.
@@ -875,10 +875,22 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
+\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
-By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot/Bingbot user-agent, set referer (to Facebook, Google or Twitter; ignored when Googlebot is set), set random ip-address, disable Javascript for (sub)domain(s) and/or external domains, block regular expression, unhide text on (or when paywall(selector) redirect to) amp-page and/or load text from json or Google webcache (paywall|article selector).
+By default sites' cookies/local storage are blocked/removed (for example to bypass article limit when metered paywall).
+
+Additional custom options:
+* allow/remove cookies (no options selected: cookies are blocked)
+* set useragent to Googlebot, Bingbot or Facebookbot
+* set referer (to Facebook, Google or Twitter; ignored when Googlebot is set)
+* set random ip-address
+* disable Javascript for (sub)domain(s), external domains (when host permission) and/or inline scripts
+* block regular expression (to block specific script and/or xhr)
+* unhide text amp-page
+* redirect to amp-page when paywall(selector)
+* load text from json when paywall|article(selector)
+* load text from Google webcache when paywall|article(selector)
+* remove/unhide elements in dom (optional for dev; check examples)
 
 [Example list of custom sites](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/custom/sites_custom.json) or [download list (json)](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/custom/sites_custom.json)
 
