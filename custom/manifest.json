@@ -23,6 +23,7 @@
   "incognito": "split",
   "content_scripts": [{
       "matches": [
+        "*://*.cz.de/*",
         "*://*.gitlab.com/magnolia1234",
         "*://*.nzherald.co.nz/*"
       ],
@@ -38,5 +39,5 @@
     "webRequestBlocking",
     "*://*/*"
   ],
-  "version": "3.0.1.0"
+  "version": "3.0.1.1"
 }
