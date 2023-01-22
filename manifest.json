@@ -111,6 +111,7 @@
     "*://*.business-standard.com/*",
     "*://*.businessinsider.com/*",
     "*://*.businessoffashion.com/*",
+    "*://*.businesspost.ie/*",
     "*://*.calgaryherald.com/*",
     "*://*.canberratimes.com.au/*",
     "*://*.capitalgazette.com/*",
@@ -712,5 +713,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.0.1.6"
+  "version": "3.0.1.7"
 }
