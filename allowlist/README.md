@@ -19,7 +19,16 @@ Windows Registry Editor Version 5.00
 
 Run one of the .mobileconfig files in [allowlist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist) (requires admin rights)  
 Finally restart the browser's process (in the Dock: right click on Chrome, 'Quit', reopen).   
-This assumes your device is not being managed by MDM software and you don't have any profile related to the 'ExtensionInstallAllowlist' policy already active.
+This assumes your device is not being managed by MDM software.   
+In case you want to use more than one extension with the 'ExtensionInstallAllowlist' policy, modify the relevant section by adding its ID:
+
+```xml
+<key>ExtensionInstallAllowlist</key>
+<array>
+<string>lkbebcjgcmobigpeffafkodonchffocl</string> # This is BCP's extension ID
+<string>extension-id2-goes-here</string>
+</array>
+```
 
 ### Linux
 
