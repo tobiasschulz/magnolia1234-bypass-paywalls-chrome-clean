@@ -697,6 +697,7 @@
     "*://*.blink.net/*",
     "*://*.bntech.io/*",
     "*://*.bwbx.io/*",
+    "*://*.californiatimes.com/*",
     "*://*.cedsdigital.it/*",
     "*://*.corriereobjects.it/*",
     "*://*.emol.cl/*",
@@ -710,5 +711,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.0.3.6"
+  "version": "3.0.3.7"
 }
