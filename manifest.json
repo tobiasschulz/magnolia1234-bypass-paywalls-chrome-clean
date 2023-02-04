@@ -319,6 +319,7 @@
     "*://*.knoxnews.com/*",
     "*://*.krautreporter.de/*",
     "*://*.ksta.de/*",
+    "*://*.kurier.at/*",
     "*://*.kw.be/*",
     "*://*.la-croix.com/*",
     "*://*.labusinessjournal.com/*",
@@ -711,5 +712,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.0.3.7"
+  "version": "3.0.3.8"
 }
