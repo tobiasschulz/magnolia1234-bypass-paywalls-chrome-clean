@@ -1,4 +1,5 @@
 var ext_api = (typeof browser === 'object') ? browser : chrome;
+var url_loc = (typeof browser === 'object') ? 'firefox' : 'chrome';
 
 // daily users counter
 function bpc_count_daily_users(dateStr) {
@@ -13,18 +14,18 @@ function bpc_count_daily_users(dateStr) {
       }, function () {
         true;
       });
-      let count_json = 'https://bitbucket.org/bpc_redux/bpc-chrome-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
+      let count_json = 'https://bitbucket.org/bpc_redux/bpc-' + url_loc + '-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
       try {
         fetch(count_json, {mode: 'no-cors'});
-        let count_mobile_json = 'https://bitbucket.org/bpc_redux/bpc-chrome-mobile-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
-        let count_desktop_json = 'https://bitbucket.org/bpc_redux/bpc-chrome-desktop-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
+        let count_mobile_json = 'https://bitbucket.org/bpc_redux/bpc-' + url_loc + '-mobile-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
+        let count_desktop_json = 'https://bitbucket.org/bpc_redux/bpc-' + url_loc + '-desktop-daily-users/downloads/bpc-daily-users-' + dateStr + '.json';
         if (window.navigator && window.navigator.userAgent.match(/(mobile|android)/i))
           fetch(count_mobile_json, {mode: 'no-cors'});
         else
           fetch(count_desktop_json, {mode: 'no-cors'});
       } catch (err) {
         false;
-      };
+      }
     }
   });
 }

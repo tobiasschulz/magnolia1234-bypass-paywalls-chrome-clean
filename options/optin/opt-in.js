@@ -7,27 +7,6 @@ var kiwi_browser = navigator_ua_mobile && !navigator_ua.toLowerCase().includes('
 var custom_switch = manifestData.optional_permissions && !kiwi_browser;
 
 window.addEventListener("load", function () {
-    var opt_in_enabled = document.getElementById('opt-in-enabled');
-    ext_api.storage.local.get("optIn", function (result) {
-        opt_in_enabled.innerText = result.optIn ? 'YES' : 'NO';
-    });
-
-    document.getElementById("optin-enable").addEventListener("click", function () {
-        ext_api.storage.local.set({
-            "optIn": true,
-            "optInShown": true
-        });
-        opt_in_enabled.innerText = 'YES';
-    });
-
-    document.getElementById("optin-disable").addEventListener("click", function () {
-        ext_api.storage.local.set({
-            "optIn": false,
-            "optInShown": true
-        });
-        opt_in_enabled.innerText = 'NO';
-    });
-
     document.getElementById("button-close").addEventListener("click", function () {
         ext_api.storage.local.set({
             "optInShown": true,
