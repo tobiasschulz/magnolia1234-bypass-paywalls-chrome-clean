@@ -361,6 +361,7 @@
     "*://*.lejsl.com/*",
     "*://*.lenouveleconomiste.fr/*",
     "*://*.leparisien.fr/*",
+    "*://*.lepoint.fr/*",
     "*://*.leprogres.fr/*",
     "*://*.lequipe.fr/*",
     "*://*.lescienze.it/*",
@@ -718,5 +719,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.0.4.6"
+  "version": "3.0.4.7"
 }

@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add L'Informe (fr)
+Add LePoint.fr
 Fix Koelner Stadt-Anzeiger
 Fix Leaky Paywall (identify site)
 Fix LesEchos.fr (json)
