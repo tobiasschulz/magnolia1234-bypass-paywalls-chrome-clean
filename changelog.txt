@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.0.5.0 (2023-02-12)
 Add L'Informe (fr)
 Add LePoint.fr
 Fix Koelner Stadt-Anzeiger
