@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Remove Finance.si (fix obsolete)
 
 * v3.0.5.0 (2023-02-12)
 Add L'Informe (fr)
