@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add DHnet.be
+Add TagesAnzeiger.ch (link to archive.is)
 Remove Finance.si (fix obsolete)
 Update block general paywall script (FewCents)
 
