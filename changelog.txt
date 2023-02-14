@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Remove Finance.si (fix obsolete)
+Update block general paywall script (FewCents)
 
 * v3.0.5.0 (2023-02-12)
 Add L'Informe (fr)
