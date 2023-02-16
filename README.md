@@ -467,7 +467,6 @@ Grouped in options:\
 [Le Parisien](https://www.leparisien.fr) -
 [Le Point](https://www.lepoint.fr) -
 [Le Télégramme](https://www.letelegramme.fr) -
-[Le Vif](https://www.levif.be) -
 [Les Échos](https://www.lesechos.fr) -
 [Les Inrockuptibles](https://www.lesinrocks.com) -
 [Marianne](https://www.marianne.net) -
@@ -520,7 +519,11 @@ Grouped in options:\
 *Groupe Sud Ouest* sites like\
 [Charente libre](https://www.charentelibre.fr) -
 [La République des Pyrénées](https://www.larepubliquedespyrenees.fr) -
-[Sud Ouest](https://www.sudouest.fr)
+[Sud Ouest](https://www.sudouest.fr)\
+*Roularta Media Group* sites like\
+[Femmes d'Aujourd'hui](https://www.femmesdaujourdhui.be) -
+[Flair](https://www.flair.be/fr) -
+[Le Vif](https://www.levif.be)
 
 ##### Germany/Austria
 [Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
@@ -634,8 +637,6 @@ Grouped in options:\
 [Follow the Money](https://www.ftm.nl) -
 [Groene Amsterdammer](https://www.groene.nl) -
 [Het Laatste Nieuws (link to archive.is)](https://www.hln.be) -
-[Knack](https://www.knack.be) -
-[Krant van West-Vlaanderen](https://kw.be) -
 [NRC Handelsblad](https://www.nrc.nl) -
 [Telegraaf](https://www.telegraaf.nl) -
 [Vrij Nederland](https://www.vn.nl)
@@ -664,7 +665,13 @@ Grouped in options:\
 [De Gooi- en Eemlander](https://www.gooieneemlander.nl)\
 *Mediahuis Noord* sites like (opt-in to custom sites for unlisted)\
 [Dagblad van het Noorden](https://www.dvhn.nl) -
-[Leeuwarder Courant](https://www.lc.nl)
+[Leeuwarder Courant](https://www.lc.nl)\
+*Roularta Media Group* sites like\
+[Artsenkrant](https://www.artsenkrant.com) -
+[Flair](https://www.flair.be/nl) -
+[Knack](https://www.knack.be) -
+[Krant van West-Vlaanderen](https://kw.be) -
+[Libelle](https://www.libelle.be)
 
 ##### Norway
 Grouped in options:\

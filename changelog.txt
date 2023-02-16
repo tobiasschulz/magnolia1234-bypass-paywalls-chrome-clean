@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add DHnet.be
+Add Roularta Media Group (be)
 Add TagesAnzeiger.ch (link to archive.is)
 Remove Asia Times (fix obsolete)
 Remove Finance.si (fix obsolete)
