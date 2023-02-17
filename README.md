@@ -1,7 +1,7 @@
 # Bypass Paywalls Clean for Chrome
 
 Extension allows you to read articles from (supported) sites that implement a paywall.  
-You can also add domains as custom site and try to bypass the paywall.  
+You can also add domains as custom sites and try to bypass the paywall.  
 Weekly updates are released for fixes and new sites.
 
 * [Installation](#installation)

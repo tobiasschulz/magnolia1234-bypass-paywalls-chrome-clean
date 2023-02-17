@@ -6,7 +6,7 @@
   "browser_action": {
     "default_popup": "options/popup.html"
   },
-  "description": "Bypass Paywalls of news sites",
+  "description": "Read articles from supported sites that implement a paywall. Add domains as custom sites and try to bypass the paywall.",
   "homepage_url": "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean",
   "icons": {
     "128": "bypass.png"
