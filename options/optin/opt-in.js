@@ -4,14 +4,10 @@ var manifestData = ext_api.runtime.getManifest();
 var navigator_ua = navigator.userAgent;
 var navigator_ua_mobile = navigator_ua.toLowerCase().includes('mobile');
 var kiwi_browser = navigator_ua_mobile && !navigator_ua.toLowerCase().includes('yabrowser');
-var custom_switch = manifestData.optional_permissions && !kiwi_browser;
+var custom_switch = (manifestData.optional_permissions || manifestData.optional_host_permissions) && !kiwi_browser;
 
 window.addEventListener("load", function () {
     document.getElementById("button-close").addEventListener("click", function () {
-        ext_api.storage.local.set({
-            "optInShown": true,
-            "customShown": true
-        });
         window.close();
     });
 
@@ -40,9 +36,6 @@ window.addEventListener("load", function () {
             } else {
                 custom_enabled.innerText = 'NO';
             }
-            ext_api.storage.local.set({
-                "customShown": true
-            });
         });
     });
 
@@ -56,9 +49,6 @@ window.addEventListener("load", function () {
                     "customOptIn": false
                 });
             }
-            ext_api.storage.local.set({
-                "customShown": true
-            });
         });
     });
 
