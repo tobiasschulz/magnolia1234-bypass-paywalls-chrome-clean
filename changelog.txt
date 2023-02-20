@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix NK News (pro)
 
 * v3.0.6.0 (2023-02-19)
 Add DHnet.be
