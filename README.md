@@ -17,11 +17,11 @@ Weekly updates are released for fixes and new sites.
 * [Disclaimer](#disclaimer)
 
 ### Installation
-Due to [Google internal policy](https://developer.chrome.com/webstore/program_policies), the extension is not available on the Chrome Web Store.  
+This extension is not available on the Google Chrome Web Store.  
 The following instructions are needed to install third-party extensions in [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))-based desktop browsers.  
 In extension developer mode you can always install BPC by `Load unpacked` (latest master, but no automatic updates) or by crx-file (latest release & automatic updates, but possibly you have to add the extension to the allowlist).
 
-#### Load unpacked: Chrome, Microsoft Edge or Brave (all desktop)
+#### Load unpacked: Chrome, MS Edge or Brave (all desktop)
 * or add extension to allowlist and install automatically updating crx-file (see next section)
 
 1. Download this repository as a [ZIP-file from GitLab](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip).
@@ -29,18 +29,16 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
 4. Go to the extensions page (`chrome://extensions`).
 5. Enable Developer Mode.
-6. Click `Load unpacked` and select the extension folder.
+6. Click `Load unpacked` and select/open the extension folder.
 
 *  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
-* For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no allowlist is needed).
-* In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
 #### CRX-file: other Chromium browsers (Opera/Vivaldi/Yandex)
 * or add extension to allowlist for Chrome, MS Edge or Brave (see [instructions](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist/README.md))
 
-1. Download the extension as a crx-file (save link as) from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
+1. Download the extension as a crx-file (right-click > save link as) from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
 2. In your browser go to the extensions page (`chrome://extensions`).
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic updates).
