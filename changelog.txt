@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.0.7.0 (2023-02-26)
 Add Landwirtschaftsverlag
 Add LosAndes.com.ar (Grupo Clarin)
 Remove Hln.be (fix obsolete)
