@@ -4,6 +4,8 @@ Changelog Bypass Paywalls Clean - Chrome
 Post-release
 Add Bloomberg Adria
 Add DN.no (cached articles only)
+Remove TagesAnzeiger.ch (fix obsolete)
+Remove Welt.de (fix obsolete)
 Fix Mediahuis Noord
 Fix mobile user-agent for Google webcache (Firefox-synch)
 Fix New Scientist
