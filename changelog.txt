@@ -6,6 +6,7 @@ Add Bloomberg Adria
 Add DN.no (cached articles only)
 Fix Mediahuis Noord
 Fix mobile user-agent for Google webcache (Firefox-synch)
+Fix New Scientist
 
 * v3.0.7.0 (2023-02-26)
 Add Landwirtschaftsverlag
