@@ -4,6 +4,7 @@ Changelog Bypass Paywalls Clean - Chrome
 Post-release
 Add Bloomberg Adria
 Add DN.no (cached articles only)
+Remove CaravanMagazine.in (fix obsolete)
 Remove TagesAnzeiger.ch (fix obsolete)
 Remove Welt.de (fix obsolete)
 Fix Berliner Zeitung
