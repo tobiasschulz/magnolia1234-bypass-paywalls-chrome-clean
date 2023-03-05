@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.0.8.0 (2023-03-05)
 Add Bloomberg Adria
 Add DN.no (cached articles only)
 Remove CaravanMagazine.in (fix obsolete)
