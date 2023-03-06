@@ -1,4 +1,11 @@
 {
+  "MOZ": {
+    "domain": "MOZ.de",
+    "allow_cookies": 1,
+    "block_js_inline": "\\.MOZ\\.de\\/.+\\/news\\/",
+    "cs_code": "[{\"cond\":\"article[style]\",\"rm_attrib\":\"style\"}]",
+    "new_site": 1
+  },
   "Bloomberg Adria": {
     "domain": "bloombergadria.com",
     "allow_cookies": 1,
