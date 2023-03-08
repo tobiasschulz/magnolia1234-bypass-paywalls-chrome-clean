@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Medienhaus Aachen
+Remove Rheinische Post Mediengruppe
 Fix Inkl
 
 * v3.0.8.0 (2023-03-05)
