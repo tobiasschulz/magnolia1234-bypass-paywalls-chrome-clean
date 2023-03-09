@@ -4,6 +4,7 @@ Changelog Bypass Paywalls Clean - Chrome
 Post-release
 Add Medienhaus Aachen
 Remove Rheinische Post Mediengruppe
+Fix Haaretz English
 Fix Inkl
 
 * v3.0.8.0 (2023-03-05)
@@ -1333,7 +1334,7 @@ Add Gazet van Antwerpen (Belgium)
 Add MarketWatch (free articles only)
 Fix Australian Provincial Newspapers
 Fix Deutsche Wirtschafts Nachrichten
-Fix Haaretz/TheMarker (Bingbot)
+Fix Haaretz English/TheMarker (Bingbot)
 Fix LesEchos.fr (first premium article)
 Fix Telegraph.co.uk (overlay)
 Fix Chrome-icon for dark/incognito mode (all permitted sites)
@@ -1559,7 +1560,7 @@ Add block general paywall scripts: BlueConic, OneCount, Qiota & TribDss. Remove 
 * v1.7.3.0 (2020-05-24)
 Add ilManifesto.it
 Fix Gestion & El Comercio (Peru)
-Fix Haaretz.com (anti-adblocker)
+Fix Haaretz English (anti-adblocker)
 Fix LeJdD.fr
 Limit contentScript on external content
 
@@ -1761,7 +1762,7 @@ Add The Diplomat
 Add Times Literary Supplement
 Add Towards Data Science
 Fix Boston Globe (block paywall-script)
-Fix Haaretz.com (anti-adblocker script)
+Fix Haaretz English (anti-adblocker script)
 Fix sites on Medium platform (remove cookies)
 
 * v1.5.9.0 (2019-11-25)
