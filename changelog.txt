@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.0.9.0 (2023-03-12)
 Add Medienhaus Aachen
 Remove Rheinische Post Mediengruppe (fix obsolete)
 Remove RheinPfalz.de (fix obsolete)
