@@ -4,6 +4,7 @@ Changelog Bypass Paywalls Clean - Chrome
 Post-release
 Add Defector
 Add Euromoney
+Add The Juggernaut
 Remove Iltalehti.fi (fix obsolete)
 Fix ilManifesto.it (timing)
 Fix iPolitics.ca (refresh)
