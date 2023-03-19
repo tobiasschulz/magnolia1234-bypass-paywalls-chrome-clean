@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.1.0.0 (2023-03-19)
 Add Defector
 Add Euromoney
 Add The Juggernaut
