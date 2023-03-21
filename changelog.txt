@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Fix Faz.net (json)
+Fix Valor Economico (amp-redirect)
 
 * v3.1.0.0 (2023-03-19)
 Add Defector
