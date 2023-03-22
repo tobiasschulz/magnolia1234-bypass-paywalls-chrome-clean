@@ -155,7 +155,6 @@
     "*://*.curbed.com/*",
     "*://*.cw.com.tw/*",
     "*://*.cyclingtips.com/*",
-    "*://*.cz.de/*",
     "*://*.dailyadvertiser.com.au/*",
     "*://*.dailyliberal.com.au/*",
     "*://*.dailypress.com/*",
@@ -726,5 +725,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.0.2"
+  "version": "3.1.0.3"
 }
