@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Le Figaro (link to archive.is)
 Remove Cellesche Zeitung (fix obsolete)
 Fix Automobilwoche.de (js)
 Fix Faz.net (json)
