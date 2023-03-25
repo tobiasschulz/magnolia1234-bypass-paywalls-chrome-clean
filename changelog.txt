@@ -2,7 +2,10 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Flair.nl
 Add Le Figaro (link to archive.is)
+Add Libelle.nl
+Add Margriet.nl
 Add Revue Conflits
 Remove Cellesche Zeitung (fix obsolete)
 Fix Automobilwoche.de (js)
