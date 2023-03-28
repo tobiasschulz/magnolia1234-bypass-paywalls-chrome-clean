@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add TagesAnzeiger.ch (link to archive.is)
 Fix BusinessPost.ie (json)
 Fix The Spectator World (new domain)
 Fix TownNews sites (js)
