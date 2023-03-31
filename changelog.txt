@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add TagesAnzeiger.ch (link to archive.is)
+Remove Business Standard (fix obsolete)
 Fix BusinessPost.ie (json)
 Fix DHnet.be, L'Avenir & LaLibre.be (Add Groupe IPM)
 Fix The Spectator World (new domain)
