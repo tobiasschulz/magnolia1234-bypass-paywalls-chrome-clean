@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Epicurious (Conde Nast)
+Add Schwaebische.de
 Add TagesAnzeiger.ch (link to archive.is)
 Remove Business Standard (fix obsolete)
 Fix BusinessPost.ie (json)
