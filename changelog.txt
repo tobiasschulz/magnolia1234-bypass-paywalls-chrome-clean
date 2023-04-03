@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Haas Mediengruppe (opt-in to custom sites)
 
 * v3.1.2.0 (2023-04-02)
 Add Epicurious (Conde Nast)
