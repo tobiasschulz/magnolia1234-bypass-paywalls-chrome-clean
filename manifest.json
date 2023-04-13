@@ -567,6 +567,7 @@
     "*://*.stocknews.com/*",
     "*://*.stratfor.com/*",
     "*://*.studocu.com/*",
+    "*://*.substack.com/*",
     "*://*.sudinfo.be/*",
     "*://*.sudouest.fr/*",
     "*://*.sueddeutsche.de/*",
@@ -733,8 +734,10 @@
     "*://*.ndcmediagroep.nl/*",
     "*://*.nyt.com/*",
     "*://*.pasedigital.cl/*",
+    "*://*.substackcdn.com/*",
     "*://*.wallkit.net/*",
+    "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.3.2"
+  "version": "3.1.3.3"
 }
