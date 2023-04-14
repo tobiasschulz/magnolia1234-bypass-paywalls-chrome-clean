@@ -5,6 +5,7 @@ Post-release
 Add El Observador, El Pais & La Diaria (Uruguay)
 Add Jacobin.de
 Add Substack (link to Google Search Tool; opt-in to custom sites for custom domains)
+Remove Zeit.de (fix obsolete)
 Fix Berlingske.dk
 Update popup (12ft.io)
 
@@ -1470,7 +1471,7 @@ Add allowlist for BPC extension (Windows)
 Fix custom sites Googlebot-fix (after reload)
 
 * v1.8.8.0 (2020-09-27)
-Add Die Zeit (Germany)
+Add Zeit.de
 Add Rolling Stone
 Add StockNews.com
 Add Times Higher Education
