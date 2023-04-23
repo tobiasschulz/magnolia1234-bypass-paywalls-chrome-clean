@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Cox First Media (opt-in to custom sites)
+Remove NK News (fix obsolete)
 Fix ESPN USA
 Fix Groupe IPM
 Fix NYTimes (interactive/games)
@@ -1715,7 +1716,7 @@ Update refresh tab after save options (Chrome-synch)
 
 * v1.6.4.2 (2020-03-03)
 Add The Port Macquarie News (Australia)
-Remove nknews.org (fix obsolete)
+Remove NK News (fix obsolete)
 Fix Lc.nl & DvhN.nl (newsletter)
 Fix Repubblica.it
 Show badge-notification if active on tab
@@ -1769,7 +1770,7 @@ Add Australian newspapers (FF-synch)
 Add Chemical & Engineering News
 Add KleineZeitung.at
 Add Le Journal du Dimanche (lejdd.fr)
-Add NkNews.org (FF-synch)
+Add NK News (FF-synch)
 Add Tijd.be (FF-synch)
 Fix Dn.se
 Fix ChicagoBusiness
