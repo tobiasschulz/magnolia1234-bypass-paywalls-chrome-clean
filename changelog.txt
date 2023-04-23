@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.1.5.0 (2023-04-23)
 Add Cox First Media (opt-in to custom sites)
 Remove NK News (fix obsolete)
 Fix ESPN USA
