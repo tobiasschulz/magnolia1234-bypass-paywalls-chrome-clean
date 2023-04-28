@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix Bloomberg (Live TV limit)
 Fix La Vanguardia (xhr)
 Fix Roularta Media Group (Firefox-sync)
 
