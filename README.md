@@ -19,7 +19,8 @@ Weekly updates are released for fixes and new sites.
 ### Installation
 This extension is not available on the Google Chrome Web Store.  
 The following instructions are needed to install third-party extensions in [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))-based desktop browsers.  
-In extension developer mode you can always install BPC by `Load unpacked` (latest master, but no automatic updates) or by crx-file (latest release & automatic updates, but possibly you have to add the extension to the allowlist).
+In extension developer mode you can always install BPC by `Load unpacked` (latest master, but no automatic updates) or by crx-file (latest release & automatic updates, but possibly you have to add the extension to the allowlist).  
+You can add/pin the extension icon to the toolbar with the toolbar extensions menu (jigsaw puzzle shaped icon).
 
 #### Load unpacked: Chrome, MS Edge or Brave (all desktop)
 * or add extension to allowlist and install automatically updating crx-file (see next section)
