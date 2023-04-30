@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Remove Zeit.de (fix obsolete)
 Fix Bloomberg (Live TV limit)
 Fix Gannett Group (redirect restricted)
 Fix La Vanguardia (xhr)
