@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.1.6.0 (2023-04-30)
 Remove Zeit.de (fix obsolete)
 Fix Bloomberg (Live TV limit)
 Fix Gannett Group (redirect restricted)
