@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix Adweek (premium)
+Fix Modern Healthcare (sponsored)
 
 * v3.1.6.0 (2023-04-30)
 Remove Zeit.de (fix obsolete)
