@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Arizent sites (opt-in to custom sites)
 Fix Adweek (premium)
 Fix Modern Healthcare (sponsored)
 
