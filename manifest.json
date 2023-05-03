@@ -111,6 +111,7 @@
     "*://*.businessinsider.com/*",
     "*://*.businessoffashion.com/*",
     "*://*.businesspost.ie/*",
+    "*://*.cairnspost.com.au/*",
     "*://*.calgaryherald.com/*",
     "*://*.canberratimes.com.au/*",
     "*://*.capitalgazette.com/*",
@@ -246,6 +247,7 @@
     "*://*.ft.com/*",
     "*://*.ftm.nl/*",
     "*://*.gazzetta.it/*",
+    "*://*.geelongadvertiser.com.au/*",
     "*://*.gelderlander.nl/*",
     "*://*.genomeweb.com/*",
     "*://*.gestion.pe/*",
@@ -641,6 +643,7 @@
     "*://*.torontosun.com/*",
     "*://*.towardsdatascience.com/*",
     "*://*.townandcountrymag.com/*",
+    "*://*.townsvillebulletin.com.au/*",
     "*://*.tradewindsnews.com/*",
     "*://*.trailrunnermag.com/*",
     "*://*.tri-cityherald.com/*",
@@ -723,6 +726,7 @@
     "*://*.bwbx.io/*",
     "*://*.californiatimes.com/*",
     "*://*.cedsdigital.it/*",
+    "*://*.codebeautify.org/*",
     "*://*.corriereobjects.it/*",
     "*://*.emol.cl/*",
     "*://*.flip-pay.com/*",
@@ -738,5 +742,5 @@
     "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.6.2"
+  "version": "3.1.6.3"
 }
