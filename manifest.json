@@ -506,7 +506,6 @@
     "*://*.project-syndicate.org/*",
     "*://*.prospectmagazine.co.uk/*",
     "*://*.public.fr/*",
-    "*://*.puck.news/*",
     "*://*.pzc.nl/*",
     "*://*.quillette.com/*",
     "*://*.quora.com/*",
@@ -742,5 +741,5 @@
     "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.6.3"
+  "version": "3.1.6.4"
 }
